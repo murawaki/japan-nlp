@@ -1,0 +1,692 @@
+###TACL
+LONG
+Named Entity Recognition with Bidirectional LSTM-CNNs
+Jason Chiu	#UBC
+Eric Nichols	HRI-JP
+http://aclweb.org/anthology/Q/Q16/Q16-1026.pdf
+
+###NAACL
+LONG
+Flexible Non-Terminals for Dependency Tree-to-Tree Reordering
+John Richardson	京大
+Fabien Cromierès	JST
+Toshiaki Nakazawa	JST
+Sadao Kurohashi	京大
+http://aclweb.org/anthology/N/N16/N16-1002.pdf
+
+LONG
+Selecting Syntactic, Non-redundant Segments in Active Learning for Machine Translation
+Akiva Miura	NAIST
+Graham Neubig	NAIST
+Michael Paul	ATR-Trek
+Satoshi Nakamura	NAIST
+http://aclweb.org/anthology/N/N16/N16-1003.pdf
+
+SHORT
+Agreement on Target-bidirectional Neural Machine Translation
+Lemao Liu	NICT
+Masao Utiyama	NICT
+Andrew Finch	NICT
+Eiichiro Sumita	NICT
+http://aclweb.org/anthology/N/N16/N16-1046.pdf
+
+SHORT
+Structured Prediction with Output Embeddings for Semantic Image Annotation
+Ariadna Quattoni	#Xerox (Europe)
+Arnau Ramisa	#UPC
+Pranava Swaroop Madhyastha	#UPC
+Edgar Simo-Serra	早大
+Francesc Moreno-Noguer	#UPC
+http://aclweb.org/anthology/N/N16/N16-1068.pdf
+
+LONG
+Morphological Inflection Generation Using Character Sequence to Sequence Learning
+Manaal Faruqui	#CMU
+Yulia Tsvetkov	#CMU
+Graham Neubig	NAIST
+Chris Dyer	#CMU
+http://aclweb.org/anthology/N/N16/N16-1077.pdf
+
+SHORT
+Improved Neural Network-based Multi-label Classification with Better Initialization Leveraging Label Co-occurrence
+Gakuto Kurata	IBM
+Bing Xiang	#IBM (US)
+Bowen Zhou	#IBM (US)
+http://aclweb.org/anthology/N/N16/N16-1063.pdf
+
+SHORT
+Dynamic Entity Representation with Max-pooling Improves Machine Reading
+Sosuke Kobayashi	東北大
+Ran Tian	東北大
+Naoaki Okazaki	東北大
+Kentaro Inui	東北大
+http://aclweb.org/anthology/N/N16/N16-1099.pdf
+
+SHORT
+Interlocking Phrases in Phrase-based Statistical Machine Translation
+Ye Kyaw Thu	NICT
+Andrew Finch	NICT
+Eiichiro Sumita	NICT
+http://aclweb.org/anthology/N/N16/N16-1124.pdf
+
+SHORT
+Discriminative Reranking for Grammatical Error Correction with Statistical Machine Translation
+Tomoya Mizumoto	東北大
+Yuji Matsumoto	NAIST
+http://aclweb.org/anthology/N/N16/N16-1133.pdf
+
+SHORT
+Right-truncatable Neural Word Embeddings
+Jun Suzuki	NTT
+Masaaki Nagata	NTT
+http://aclweb.org/anthology/N/N16/N16-1135.pdf
+
+LONG
+Statistical Modeling of Creole Genesis
+Yugo Murawaki	京大
+http://aclweb.org/anthology/N/N16/N16-1158.pdf
+
+STUDENT
+Analogy-based detection of morphological and semantic relations with word embeddings: what works and what doesn't.
+Anna Gladkova	東大
+Aleksandr Drozd	東工大
+Satoshi Matsuoka	東工大
+http://aclweb.org/anthology/N/N16/N16-2002.pdf
+
+STUDENT
+Extraction of Bilingual Technical Terms for Chinese-Japanese Patent Translation
+Wei Yang	早大
+Jinghui Yan	早大
+Yves Lepage	早大
+http://aclweb.org/anthology/N/N16/N16-2012.pdf
+
+###ACL
+LONG
+Adaptive Joint Learning of Compositional and Non-Compositional Phrase Embeddings
+Kazuma Hashimoto	東大
+Yoshimasa Tsuruoka	東大
+http://aclweb.org/anthology/P/P16/P16-1020.pdf
+
+LONG
+Tree-to-Sequence Attentional Neural Machine Translation
+Akiko Eriguchi	東大
+Kazuma Hashimoto	東大
+Yoshimasa Tsuruoka	東大
+http://aclweb.org/anthology/P/P16/P16-1078.pdf
+
+LONG
+Transition-Based Left-Corner Parsing for Identifying PTB-Style Nonlocal Dependencies
+Yoshihide Kato	名大
+Shigeki Matsubara	名大
+http://aclweb.org/anthology/P/P16/P16-1088.pdf
+
+LONG
+End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures
+Makoto Miwa	豊田工大
+Mohit Bansal	#Toyota-TI Chicago
+http://aclweb.org/anthology/P/P16/P16-1105.pdf
+
+LONG
+Prediction of Prospective User Engagement with Intelligent Assistants
+Shumpei Sano	Yahoo
+Nobuhiro Kaji	Yahoo
+Manabu Sassano	Yahoo
+http://aclweb.org/anthology/P/P16/P16-1114.pdf
+
+LONG
+Neural Network-Based Model for Japanese Predicate Argument Structure Analysis
+Tomohide Shibata	京大
+Daisuke Kawahara	京大
+Sadao Kurohashi	京大
+http://aclweb.org/anthology/P/P16/P16-1117.pdf
+
+LONG
+Bilingual Segmented Topic Model
+Akihiro Tamura	NICT
+Eiichiro Sumita	NICT
+http://aclweb.org/anthology/P/P16/P16-1120.pdf
+
+LONG
+Learning Semantically and Additively Compositional Distributional Representations
+Ran Tian	東北大
+Naoaki Okazaki	東北大
+Kentaro Inui	東北大
+http://aclweb.org/anthology/P/P16/P16-1121.pdf
+
+LONG
+A Continuous Space Rule Selection Model for Syntax-based Statistical Machine Translation
+Jingyi Zhang	NICT	NAIST
+Masao Utiyama	NICT
+Eiichro Sumita	NICT
+Graham Neubig	NAIST
+Satoshi Nakamura	NAIST
+http://aclweb.org/anthology/P/P16/P16-1130.pdf
+
+LONG
+Cross-Lingual Image Caption Generation
+Takashi Miyazaki	Yahoo
+Nobuyuki Shimizu	Yahoo
+http://aclweb.org/anthology/P/P16/P16-1168.pdf
+
+LONG
+Physical Causality of Action Verbs in Grounded Language Understanding
+Qiaozi Gao	#MSU
+Malcolm Doering	#MSU	阪大
+Shaohua Yang	#MSU
+Joyce Chai	#MSU
+http://aclweb.org/anthology/P/P16/P16-1171.pdf
+
+LONG
+Phrase Structure Annotation and Parsing for Learner English
+Ryo Nagata	甲南大
+Keisuke Sakaguchi	#Johns Hopkins
+http://aclweb.org/anthology/P/P16/P16-1173.pdf
+
+LONG
+A Corpus-Based Analysis of Canonical Word Order of Japanese Double Object Constructions
+Ryohei Sasano	東工大
+Manabu Okumura	東工大
+http://aclweb.org/anthology/P/P16/P16-1211.pdf
+
+LONG
+On Approximately Searching for Similar Word Embeddings
+Kohei Sugawara	Yahoo
+Hayato Kobayashi	Yahoo
+Masajiro Iwasaki	Yahoo
+http://aclweb.org/anthology/P/P16/P16-1214.pdf
+
+LONG
+Composing Distributed Representations of Relational Patterns
+Sho Takase	東北大
+Naoaki Okazaki	東北大
+Kentaro Inui	東北大
+http://aclweb.org/anthology/P/P16/P16-1215.pdf
+
+SHORT
+Empty element recovery by spinal parser operations
+Katsuhiko Hayashi	NTT
+Masaaki Nagata	NTT
+http://aclweb.org/anthology/P/P16/P16-2016.pdf
+
+SHORT
+Domain Specific Named Entity Recognition Referring to the Real World by Deep Neural Networks
+Suzushi Tomori	京大
+Takashi Ninomiya	愛媛大
+Shinsuke Mori	京大
+http://aclweb.org/anthology/P/P16/P16-2039.pdf
+
+SHORT
+Which Tumblr Post Should I Read Next?
+Zornitsa Kozareva	#Yahoo (US)
+Makoto Yamada	京大
+http://aclweb.org/anthology/P/P16/P16-2054.pdf
+
+SHORT
+A Latent Concept Topic Model for Robust Topic Inference Using Word Embeddings
+Weihua Hu	東大
+Jun'ichi Tsujii	産総研	#Manchester
+http://aclweb.org/anthology/P/P16/P16-2062.pdf
+
+SHORT
+Phrase Table Pruning via Submodular Function Maximization
+Masaaki Nishino	NTT
+Jun Suzuki	NTT
+Masaaki Nagata	NTT
+http://aclweb.org/anthology/P/P16/P16-2066.pdf
+
+SHORT
+Cross-Lingual Word Representations via Spectral Graph Embeddings
+Takamasa Oshikiri	阪大
+Kazuki Fukui	阪大
+Hidetoshi Shimodaira	阪大
+http://aclweb.org/anthology/P/P16/P16-2080.pdf
+
+SHORT
+Modelling the Interpretation of Discourse Connectives by Bayesian Pragmatics
+Frances Yung	NAIST
+Kevin Duh	#Johns Hopkins
+Taku Komura	#Edinburgh
+Yuji Matsumoto	NAIST
+http://aclweb.org/anthology/P/P16/P16-2086.pdf
+
+STUDENT
+Controlled and Balanced Dataset for Japanese Lexical Simplification
+Tomonori Kodaira	首都大
+Tomoyuki Kajiwara	首都大
+Mamoru Komachi	首都大
+http://aclweb.org/anthology/P/P16/P16-3001.pdf
+
+STUDENT
+Dependency Forest based Word Alignment
+Hitoshi Otsuki	京大
+Chenhui Chu	JST
+Toshiaki Nakazawa	JST
+Sadao Kurohashi	京大
+http://aclweb.org/anthology/P/P16/P16-3002.pdf
+
+STUDENT
+Generating Natural Language Descriptions for Semantic Representations of Human Brain Activity
+Eri Matsuo	お茶大
+Ichiro Kobayashi	お茶大
+Shinji Nishimoto	NICT
+Satoshi Nishida	NICT
+Hideki Asoh	産総研
+http://aclweb.org/anthology/P/P16/P16-3004.pdf
+
+STUDENT
+Building a Corpus for Japanese Wikification with Fine-Grained Entity Classes
+Davaajav Jargalsaikhan	東北大
+Naoaki Okazaki	東北大
+Koji Matsuda	東北大
+Kentaro Inui	東北大
+http://aclweb.org/anthology/P/P16/P16-3021.pdf
+
+DEMO
+ccg2lambda: A Compositional Semantics System
+Pascual Martínez-Gómez	産総研
+Koji Mineshima	お茶大
+Yusuke Miyao	NII
+Daisuke Bekki	お茶大
+http://aclweb.org/anthology/P/P16/P16-4015.pdf
+
+DEMO
+Jigg: A Framework for an Easy Natural Language Processing Pipeline
+Hiroshi Noji	NAIST
+Yusuke Miyao	NII
+http://aclweb.org/anthology/P/P16/P16-4018.pdf
+
+###EMNLP
+LONG
+Rule Extraction for Tree-to-Tree Transducers by Cost Minimization
+Pascual Martínez-Gómez	産総研
+Yusuke Miyao	産総研	NII	総研大
+http://aclweb.org/anthology/D/D16/D16-1002.pdf
+
+LONG
+Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction
+Hiroshi Noji	NAIST
+Yusuke Miyao	NII
+Mark Johnson	#Macquarie
+http://aclweb.org/anthology/D/D16/D16-1004.pdf
+
+LONG
+Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
+Akira Fukui	#UC Berkeley	Sony
+Dong Huk Park	#UC Berkeley
+Daylen Yang	#UC Berkeley
+Anna Rohrbach	#UC Berkeley	#Max Planck
+Trevor Darrell	#UC Berkeley
+Marcus Rohrbach	#UC Berkeley
+http://aclweb.org/anthology/D/D16/D16-1044.pdf
+
+LONG
+IRT-based Aggregation Model of Crowdsourced Pairwise Comparison for Evaluating Machine Translations
+Naoki Otani	京大
+Toshiaki Nakazawa	JST
+Daisuke Kawahara	京大
+Sadao Kurohashi	京大
+http://aclweb.org/anthology/D/D16/D16-1049.pdf
+
+LONG
+WordRank: Learning Word Embeddings via Robust Ranking
+Shihao Ji	#Intel
+Hyokun Yun	#Amazon
+Pinar Yanardag	#Purdue
+Shin Matsushima	東大
+S. V. N. Vishwanathan	#UCSC
+http://aclweb.org/anthology/D/D16/D16-1063.pdf
+
+SHORT
+Joint Transition-based Dependency Parsing and Disfluency Detection for Automatic Speech Recognition Texts
+Masashi Yoshikawa	NAIST
+Hiroyuki Shindo	NAIST
+Yuji Matsumoto	NAIST
+http://aclweb.org/anthology/D/D16/D16-1109.pdf
+
+SHORT
+Neural Headline Generation on Abstract Meaning Representation
+Sho Takase	東北大
+Jun Suzuki	NTT
+Naoaki Okazaki	東北大
+Tsutomu Hirao	NTT
+Masaaki Nagata	NTT
+http://aclweb.org/anthology/D/D16/D16-1112.pdf
+
+LONG
+Intra-Sentential Subject Zero Anaphora Resolution using Multi-Column Convolutional Neural Network
+Ryu Iida	NICT
+Kentaro Torisawa	NICT
+Jong-Hoon Oh	NICT
+Canasai Kruengkrai	NICT
+Julien Kloetzer	NICT
+http://aclweb.org/anthology/D/D16/D16-1132.pdf
+
+LONG
+Controlling Output Length in Neural Encoder-Decoders
+Yuta Kikuchi	東工大
+Graham Neubig	#CMU
+Ryohei Sasano	東工大
+Hiroya Takamura	東工大
+Manabu Okumura	東工大
+http://aclweb.org/anthology/D/D16/D16-1140.pdf
+
+LONG
+Incorporating Discrete Translation Lexicons into Neural Machine Translation
+Philip Arthur	NAIST
+Graham Neubig	NAIST	#CMU
+Satoshi Nakamura	NAIST
+http://aclweb.org/anthology/D/D16/D16-1162.pdf
+
+SHORT
+Unsupervised Word Alignment by Agreement Under ITG Constraint
+Hidetaka Kamigaito	東工大
+Akihiro Tamura	NICT
+Hiroya Takamura	東工大
+Manabu Okumura	東工大
+Eiichiro Sumita	NICT
+http://aclweb.org/anthology/D/D16/D16-1210.pdf
+
+SHORT
+Leveraging Sentence-level Information with Encoder LSTM for Semantic Slot Filling
+Gakuto Kurata	IBM
+Bing Xiang	#IBM (US)
+Bowen Zhou	#IBM (US)
+Mo Yu	#IBM (US)
+http://aclweb.org/anthology/D/D16/D16-1223.pdf
+
+LONG
+Addressee and Response Selection for Multi-Party Conversation
+Hiroki Ouchi	NAIST
+Yuta Tsuboi	IBM
+http://aclweb.org/anthology/D/D16/D16-1231.pdf
+
+LONG
+Nonparametric Bayesian Models for Spoken Language Understanding
+Kei Wakabayashi	筑波大
+Johane Takeuchi	HRI-JP
+Kotaro Funakoshi	HRI-JP
+Mikio Nakano	HRI-JP
+http://aclweb.org/anthology/D/D16/D16-1232.pdf
+
+SHORT
+Building compositional semantics and higher-order inference system for a wide-coverage Japanese CCG parser
+Koji Mineshima	お茶大
+Ribeka Tanaka	お茶大
+Pascual Martínez-Gómez	産総研
+Yusuke Miyao	NII
+Daisuke Bekki	お茶大
+http://aclweb.org/anthology/D/D16/D16-1242.pdf
+
+SHORT
+Insertion Position Selection Model for Flexible Non-Terminals in Dependency Tree-to-Tree Machine Translation
+Toshiaki Nakazawa	JST
+John Richardson	京大
+Sadao Kurohashi	京大
+http://aclweb.org/anthology/D/D16/D16-1247.pdf
+
+###COLING
+LONG
+Generating Video Description using Sequence-to-sequence Model with Temporal Attention
+Natsuda Laokulrat	産総研
+Sang Phan	NII
+Noriki Nishida	東大
+Raphael Shu	東大
+Yo Ehara	産総研
+Naoaki Okazaki	東北大	産総研
+Yusuke Miyao	NII	産総研
+Hideki Nakayama	東大	産総研
+http://aclweb.org/anthology/C/C16/C16-1005.pdf
+
+LONG
+Forecasting Word Model: Twitter-based Influenza Surveillance and Prediction
+Hayate Iso	NAIST
+Shoko Wakamiya	NAIST
+Eiji Aramaki	NAIST
+http://aclweb.org/anthology/C/C16/C16-1008.pdf
+
+LONG
+Bayesian Language Model based on Mixture of Segmental Contexts for Spontaneous Utterances with Unexpected Words
+Ryu Takeda	阪大
+Kazunori Komatani	阪大
+http://aclweb.org/anthology/C/C16/C16-1016.pdf
+
+LONG
+Exploring Text Links for Coherent Multi-Document Summarization
+Xun Wang	NTT
+Masaaki Nishino	NTT
+Tsutomu Hirao	NTT
+Katsuhito Sudoh	NTT
+Masaaki Nagata	NTT
+http://aclweb.org/anthology/C/C16/C16-1021.pdf
+
+LONG
+Consistent Word Segmentation, Part-of-Speech Tagging and Dependency Labelling Annotation for Chinese Language
+Mo Shen	#Google
+Wingmui Li	#CUHK
+HyunJeong Choe	#Google
+Chenhui Chu	JST
+Daisuke Kawahara	京大
+Sadao Kurohashi	京大
+http://aclweb.org/anthology/C/C16/C16-1029.pdf
+
+LONG
+Continuous Expressive Speaking Styles Synthesis based on CVSM and MR-HMM
+Jaime Lorenzo-Trueba	#UPM	NII
+Roberto Barra-Chicote	#UPM
+Ascension Gallardo-Antolin	#UC3M
+Junichi Yamagishi	NII
+Juan M Montero	#UPM
+http://aclweb.org/anthology/C/C16/C16-1036.pdf
+
+LONG
+Large-scale Multi-class and Hierarchical Product Categorization for an E-commerce Giant
+Ali Cevahir	楽天
+Koji Murakami	#Rakuten (US)
+http://aclweb.org/anthology/C/C16/C16-1051.pdf
+
+LONG
+Reading-Time Annotations for "Balanced Corpus of Contemporary Written Japanese"
+Masayuki Asahara	国語研
+Hajime Ono	津田塾大
+Edson T. Miyamoto	筑波大
+http://aclweb.org/anthology/C/C16/C16-1066.pdf
+
+LONG
+Contrasting Vertical and Horizontal Transmission of Typological Features
+Kenji Yamauchi	京大
+Yugo Murawaki	京大
+http://aclweb.org/anthology/C/C16/C16-1080.pdf
+
+LONG
+Building a Monolingual Parallel Corpus for Text Simplification Using Sentence Similarity Based on Alignment between Word Embeddings
+Tomoyuki Kajiwara	首都大
+Mamoru Komachi	首都大
+http://aclweb.org/anthology/C/C16/C16-1109.pdf
+
+LONG
+Extraction of Keywords of Novelties From Patent Claims
+Shoko Suzuki	IBM
+Hiromichi Takatsuka	IBM
+http://aclweb.org/anthology/C/C16/C16-1113.pdf
+
+LONG
+Phrase-based Machine Translation using Multiple Preordering Candidates
+Yusuke Oda	NAIST
+Taku Kudo	Google
+Tetsuji Nakagawa	Google
+Taro Watanabe	Google
+http://aclweb.org/anthology/C/C16/C16-1134.pdf
+
+LONG
+Predicting the Evocation Relation between Lexicalized Concepts
+Yoshihiko Hayashi	早大
+http://aclweb.org/anthology/C/C16/C16-1156.pdf
+
+LONG
+Distributional Hypernym Generation by Jointly Learning Clusters and Projections
+Josuke Yamane	豊田工大
+Tomoya Takatani	トヨタ
+Hitoshi Yamada	トヨタ
+Makoto Miwa	豊田工大
+Yutaka Sasaki	豊田工大
+http://aclweb.org/anthology/C/C16/C16-1176.pdf
+
+LONG
+Modeling Discourse Segments in Lyrics Using Repeated Patterns
+Kento Watanabe	東北大
+Yuichiroh Matsubayashi	東北大
+Naho Orita	東北大
+Naoaki Okazaki	東北大
+Kentaro Inui	東北大
+Satoru Fukayama	産総研
+Tomoyasu Nakano	産総研
+Jordan Smith	産総研
+Masataka Goto	産総研
+http://aclweb.org/anthology/C/C16/C16-1184.pdf
+
+LONG
+Learning Succinct Models: Pipelined Compression with L1-Regularization, Hashing, Elias-Fano Indices, and Quantization
+Hajime Senuma	東大	NII
+Akiko Aizawa	NII	東大
+http://aclweb.org/anthology/C/C16/C16-1261.pdf
+
+LONG
+Modeling Context-sensitive Selectional Preference with Distributed Representations
+Naoya Inoue	東北大
+Yuichiroh Matsubayashi	東北大
+Masayuki Ono	東北大
+Naoaki Okazaki	東北大
+Kentaro Inui	東北大
+http://aclweb.org/anthology/C/C16/C16-1266.pdf
+
+LONG
+Parameter estimation of Japanese predicate argument structure analysis model using eye gaze information
+Ryosuke Maki	東工大
+Hitoshi Nishikawa	東工大
+Takenobu Tokunaga	東工大
+http://aclweb.org/anthology/C/C16/C16-1269.pdf
+
+LONG
+Neural Machine Translation with Supervised Attention
+Lemao Liu	NICT
+Masao Utiyama	NICT
+Andrew Finch	NICT
+Eiichiro Sumita	NICT
+http://aclweb.org/anthology/C/C16/C16-1291.pdf
+
+LONG
+Connecting Phrase based Statistical Machine Translation Adaptation
+Rui Wang	#Shanghai Jiao Tong
+Hai Zhao	#Shanghai Jiao Tong
+Bao-Liang Lu	#Shanghai Jiao Tong
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+http://aclweb.org/anthology/C/C16/C16-1295.pdf
+
+LONG
+Video Event Detection by Exploiting Word Dependencies from Image Captions
+Sang Phan	NII
+Yusuke Miyao	NII
+Duy-Dinh Le	NII	#UIT (Vietnam)
+Shin'ichi Satoh	NII
+http://aclweb.org/anthology/C/C16/C16-1313.pdf
+
+LONG
+Word Embeddings, Analogies, and Machine Learning: Beyond king - man + woman = queen
+Aleksandr Drozd	東工大
+Anna Gladkova	東大
+Satoshi Matsuoka	東工大
+http://aclweb.org/anthology/C/C16/C16-1332.pdf
+
+DEMO
+`BonTen' – Corpus Concordance System for `NINJAL Web Japanese Corpus'
+Masayuki Asahara	国語研
+Kazuya Kawahara	Retrieva
+Yuya Takei	Retrieva
+Hideto Masuoka	Retrieva
+Yasuko Ohba	Everyleaf
+Yuki Torii	Everyleaf
+Toru Morii	Everyleaf
+Yuki Tanaka	Everyleaf
+Kikuo Maekawa	国語研
+Sachi Kato	国語研
+Hikari Konishi	国語研
+http://aclweb.org/anthology/C/C16/C16-2006.pdf
+
+DEMO
+A Prototype Automatic Simultaneous Interpretation System
+Xiaolin Wang	NICT
+Andrew Finch	NICT
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+http://aclweb.org/anthology/C/C16/C16-2007.pdf
+
+DEMO
+MuTUAL: A Controlled Authoring Support System Enabling Contextual Machine Translation
+Rei Miyata	東大
+Anthony Hartley	立教大
+Kyo Kageura	東大
+Cecile Paris	#CSIRO
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+http://aclweb.org/anthology/C/C16/C16-2008.pdf
+
+DEMO
+Demonstration of ChaKi.NET – beyond the corpus search system
+Masayuki Asahara	国語研
+Yuji Matsumoto	NAIST
+Toshio Morita	総和技研
+http://aclweb.org/anthology/C/C16/C16-2011.pdf
+
+DEMO
+HistoryComparator: Interactive Across-Time Comparison in Document Archives
+Adam Jatowt	京大
+Marc Bron	#Amsterdam
+http://aclweb.org/anthology/C/C16/C16-2018.pdf
+
+DEMO
+What topic do you want to hear about? A bilingual talking robot using English and Japanese Wikipedias
+Graham Wilcock	#CDM Interact
+Kristiina Jokinen	#Tartu
+Seiichi Yamamoto	同志社
+http://aclweb.org/anthology/C/C16/C16-2025.pdf
+
+DEMO
+SideNoter: Scholarly Paper Browsing System based on PDF Restructuring and Text Annotation
+Takeshi Abekawa	NII
+Akiko Aizawa	NII
+http://aclweb.org/anthology/C/C16/C16-2029.pdf
+
+DEMO
+Using Synthetically Collected Scripts for Story Generation
+Takashi Ogata	岩手県立
+Tatsuya Arai	岩手県立
+Jumpei Ono	岩手県立
+http://aclweb.org/anthology/C/C16/C16-2053.pdf
+
+DEMO
+WISDOM X, DISAANA and D-SUMM: Large-scale NLP Systems for Analyzing Textual Big Data
+Junta Mizuno	NICT
+Masahiro Tanaka	NICT
+Kiyonori Ohtake	NICT
+Jong-Hoon Oh	NICT
+Julien Kloetzer	NICT
+Chikara Hashimoto	NICT
+Kentaro Torisawa	NICT
+http://aclweb.org/anthology/C/C16/C16-2055.pdf
+
+DEMO
+Kotonush: Understanding Concepts Based on Values behind Social Media
+Tatsuya Iwanari	東大
+Kohei Ohara	東大
+Naoki Yoshinaga	東大
+Nobuhiro Kaji	Yahoo
+Masashi Toyoda	東大
+Masaru Kitsuregawa	東大	NII
+http://aclweb.org/anthology/C/C16/C16-2061.pdf
+
+DEMO
+Kyoto-NMT: a Neural Machine Translation implementation in Chainer
+Fabien Cromieres	JST
+http://aclweb.org/anthology/C/C16/C16-2064.pdf
+
