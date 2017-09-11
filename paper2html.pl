@@ -19,7 +19,9 @@ my $affCount = {};
 my $action;
 my $buf;
 my $paper;
+my $lineno = 0;
 while (<STDIN>) {
+    $lineno++;
     chomp;
     if (/^$/) {
 	$action = "CLEAR";
@@ -27,7 +29,7 @@ while (<STDIN>) {
 	$action = "NOOP";
     } elsif (/^http/) {
 	unless ($action eq "AUTHOR") {
-	    die "URL must follow AUTHOR";
+	    die "$lineno\tURL must follow AUTHOR";
 	}
 	$action = "URL";
 	$buf = $_;
@@ -110,17 +112,16 @@ my @sorted = sort { $affCount->{$b} <=> $affCount->{$a} } keys(%$affCount);
 
 printf <<'__DOC_HEADER__';
 <div class="container-fluid">
-<h1>日本所属の言語処理トップカンファレンス論文 (2016年)</h1>
+<h1>日本所属の言語処理トップカンファレンス論文 (2017年)</h1>
 <div>
 <p class="text-right">MURAWAKI Yugo</p>
-<p class="text-right">Last Updated: February 24, 2017.</p>
+<p class="text-right">Last Update: September 11, 2017.</p>
 </div>
 
 <div>
 <p>
-日本の研究機関を所属とする者が、2016年に言語処理のトップカンファレンスもしくはトップ論文誌で発表した論文一覧です。
-対象は TACL、NAACL、ACL、EMNLP、COLING です。Student/Demo 論文も含みます。
-<a href="http://phontron.com/misc/japan-nlp-2014.html">2014年版</a>、<a href="http://phontron.com/misc/japan-nlp-2015.html">2015年版</a>は Graham Neubig さん (NAIST、現 CMU) が作成していましたが、2016年版がなったので村脇が作成しました。
+日本の研究機関を所属とする者が、2017年に言語処理のトップカンファレンスもしくはトップ論文誌で発表した論文一覧です (<a href="http://murawaki.org/misc/japan-nlp-2016.html">2016年版</a>。<a href="http://phontron.com/misc/japan-nlp-2015.html">2015年版</a>、<a href="http://phontron.com/misc/japan-nlp-2014.html">2014年版</a>は Graham Neubig さん (NAIST、現 CMU) が作成)。
+対象は TACL、EACL、ACL、EMNLP です。Student/Demo 論文も含みます。
 収集は手作業なので漏れがあるかもしれません。
 </p>
 方針:
@@ -128,6 +129,7 @@ printf <<'__DOC_HEADER__';
 <li>full paper 1 本に対して、short paper は 0.75 本、student research workshop/system demonstration は 0.5 本換算。</li>
 <li>著者が複数の場合は、第1著者に 0.5 を配分し、残りの 0.5 は以降の著者で等分。</li>
 <li>1人の著者に複数の所属がある場合は等分。</li>
+<li>論文における著者の自己申告に機械的に従います。他の組織の事情まではわからず、一貫性が保てないので。</li>
 </ul>
 </div>
 __DOC_HEADER__
