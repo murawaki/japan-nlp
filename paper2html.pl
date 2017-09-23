@@ -105,7 +105,7 @@ foreach my $paper (@$paperList) {
 
 # Dumpvalue->new->dumpValue($affCount);
 
-my @sorted = sort { $affCount->{$b} <=> $affCount->{$a} } keys(%$affCount);
+my @sorted = sort { $affCount->{$b} <=> $affCount->{$a} or $a cmp $b } keys(%$affCount);
 # foreach my $aff (@sorted) {
 #     printf("%s\t%.2f\n", $aff, nearest(0.01, $affCount->{$aff}));
 # }
@@ -129,7 +129,7 @@ printf <<'__DOC_HEADER__';
 <li>full paper 1 本に対して、short paper は 0.75 本、student research workshop/system demonstration は 0.5 本換算。</li>
 <li>著者が複数の場合は、第1著者に 0.5 を配分し、残りの 0.5 は以降の著者で等分。</li>
 <li>1人の著者に複数の所属がある場合は等分。</li>
-<li>論文における著者の自己申告に機械的に従います。他の組織の事情まではわからず、一貫性が保てないので。</li>
+<li>所属は論文における著者の自己申告に機械的に従います。そうでないと、他の組織の事情まではわからず、一貫性が保てないので。</li>
 </ul>
 </div>
 __DOC_HEADER__

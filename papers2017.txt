@@ -155,10 +155,10 @@ http://aclweb.org/anthology/P/P17/P17-1111.pdf
 
 LONG
 Unifying Text, Metadata, and User Network Representations with a Neural Network for Geolocation Prediction
-Yasuhide Miura	Fuji Xerox	東工大
-Motoki Taniguchi	Fuji Xerox
-Tomoki Taniguchi	Fuji Xerox
-Tomoko Ohkuma	Fuji Xerox
+Yasuhide Miura	富士ゼロックス	東工大
+Motoki Taniguchi	富士ゼロックス
+Tomoki Taniguchi	富士ゼロックス
+Tomoko Ohkuma	富士ゼロックス
 http://aclweb.org/anthology/P/P17/P17-1116.pdf
 
 LONG
