@@ -6,6 +6,20 @@ Ryo Domoto	博報堂
 Daichi Mochihashi	統数研
 http://aclweb.org/anthology/Q17-1013
 
+LONG
+Learning Distributed Representations of Texts and Entities from Knowledge Base
+Ikuya Yamada	Studio Ousia	慶大
+Hiroyuki Shindo	NAIST
+Hideaki Takeda	NII
+Yoshiyasu Takefuji	慶大
+http://aclweb.org/anthology/Q/Q17/Q17-1028.pdf
+
+LONG
+Phrase Table Induction Using In-Domain Monolingual Data for Domain Adaptation in Statistical Machine Translation
+Benjamin Marie	NICT
+Atsushi Fujita	NICT
+http://aclweb.org/anthology/Q/Q17/Q17-1034.pdf
+
 
 #EACL
 LONG
