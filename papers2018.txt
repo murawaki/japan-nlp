@@ -1,0 +1,673 @@
+#TACL
+
+#NAACL
+
+LONG
+A Melody-Conditioned Lyrics Language Model
+Kento Watanabe	東北大
+Yuichiroh Matsubayashi	東北大
+Satoru Fukayama	産総研
+Masataka Goto	産総研
+Kentaro Inui	東北大	理研
+Tomoyasu Nakano	産総研
+http://aclweb.org/anthology/N18-1015
+
+LONG
+Neural Tensor Networks with Diagonal Slice Matrices
+Takahiro Ishihara	NAIST
+Katsuhiko Hayashi	阪大
+Hitoshi Manabe	NAIST
+Masashi Shimbo	NAIST
+Masaaki Nagata	NTT
+http://aclweb.org/anthology/N18-1047
+
+LONG
+Acquisition of Phrase Correspondences Using Natural Deduction Proofs
+Hitomi Yanaka	東大
+Koji Mineshima	お茶大
+Pascual Martínez-Gómez	産総研
+Daisuke Bekki	お茶大
+http://aclweb.org/anthology/N18-1069
+
+LONG
+Filling Missing Paths: Modeling Co-occurrences of Word Pairs and Dependency Paths for Recognizing Lexical Semantic Relations
+Koki Washio	東大
+Tsuneaki Kato	東大
+http://aclweb.org/anthology/N18-1102
+
+LONG
+Guiding Neural Machine Translation with Retrieved Translation Pieces
+Jingyi Zhang	NICT	NAIST
+Masao Utiyama	NICT
+Eiichro Sumita	NICT
+Graham Neubig	#CMU	NAIST
+Satoshi Nakamura	NAIST
+http://aclweb.org/anthology/N18-1120
+
+LONG
+A Neural Layered Model for Nested Named Entity Recognition
+Meizhi Ju	#マンチェスター大	産総研
+Makoto Miwa	豊田工大	産総研
+Sophia Ananiadou	#マンチェスター大	産総研
+http://aclweb.org/anthology/N18-1131
+
+LONG
+Higher-Order Syntactic Attention Network for Longer Sentence Compression
+Hidetaka Kamigaito	東工大
+Katsuhiko Hayashi	阪大
+Tsutomu Hirao	NTT
+Masaaki Nagata	NTT
+http://aclweb.org/anthology/N18-1155
+
+LONG
+Provable Fast Greedy Compressive Summarization with Any Monotone Submodular Function
+Shinsaku Sakaue	NTT
+Tsutomu Hirao	NTT
+Masaaki Nishino	NTT
+Masaaki Nagata	NTT
+http://aclweb.org/anthology/N18-1157
+
+LONG
+Search Inducing Temporal Relations from Time Anchor Annotation
+Fei Cheng	NII
+Yusuke Miyao	NII
+http://aclweb.org/anthology/N18-1166
+
+LONG
+Dialog Generation Using Multi-Turn Reasoning Neural Networks
+Xianchao Wu	Microsoft Development
+Ander Martinez	NAIST
+Momo Klyen	Microsoft Development
+http://aclweb.org/anthology/N18-1186
+
+SHORT
+Knowledge-Enriched Two-Layered Attention Network for Sentiment Analysis
+Abhishek Kumar	#IIT Patna
+Daisuke Kawahara	京大
+Sadao Kurohashi	京大
+http://aclweb.org/anthology/N18-2041
+
+SHORT
+Consistent CCG Parsing over Multiple Sentences for Improved Logical Reasoning
+Masashi Yoshikawa	NAIST
+Koji Mineshima	お茶大
+Hiroshi Noji	産総研
+Daisuke Bekki	お茶大
+http://aclweb.org/anthology/N18-2065
+
+SHORT
+Contextual Augmentation: Data Augmentation by Words with Paradigmatic Relations
+Sosuke Kobayashi	PFN
+http://aclweb.org/anthology/N18-2072
+
+SHORT
+Search Cross-Lingual Learning-to-Rank with Shared Representations
+Shota Sasaki	東北大
+Shuo Sun	#CMU
+Shigehiko Schamoni	#Haidelberg
+Kevin Duh	#CMU
+Kentaro Inui	東北大	理研
+http://aclweb.org/anthology/N18-2073
+
+SHORT
+Pruning Basic Elements for Better Automatic Evaluation of Summaries
+Ukyo Honda	NAIST
+Tsutomu Hirao	NTT
+Masaaki Nagata	NTT
+http://aclweb.org/anthology/N18-2104
+
+STUDENT
+Japanese Predicate Conjugation for Neural Machine Translation
+Michiki Kurosawa	首都大
+Yukio Matsumura	首都大
+Hayahide Yamagishi	首都大
+Mamoru Komachi	首都大
+http://aclweb.org/anthology/N18-4014
+
+STUDENT
+Metric for Automatic Machine Translation Evaluation based on Universal Sentence Representations
+Hiroki Shimanaka	首都大
+Tomoyuki Kajiwara	首都大	阪大
+Mamoru Komachi	首都大
+http://aclweb.org/anthology/N18-4015
+
+
+
+#ACL
+
+LONG
+Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates
+Taku Kudo	Google
+http://aclweb.org/anthology/P18-1007
+
+LONG
+Neural Adversarial Training for Semi-supervised Japanese Predicate-argument Structure Analysis
+Shuhei Kurita	京大	JST
+Daisuke Kawahara	京大	JST
+Sadao Kurohashi	京大	JST
+http://aclweb.org/anthology/P18-1044
+
+LONG
+Entity-Centric Joint Modeling of Japanese Coreference Resolution and Predicate Argument Structure Analysis
+Tomohide Shibata	京大	JST
+Sadao Kurohashi	京大	JST
+http://aclweb.org/anthology/P18-1054
+
+LONG
+Taylor's Law for Human Linguistic Sequences
+Tatsuru Kobayashi	東大
+Kumiko Tanaka-Ishii	東大
+http://aclweb.org/anthology/P18-1105
+
+LONG
+Forest-Based Neural Machine Translation
+Chunpeng Ma	#ハルビン工大	NICT
+Akihiro Tamura	愛媛大
+Masao Utiyama	NICT
+Tiejun Zhao	#ハルビン工大
+Eiichiro Sumita	NICT
+http://aclweb.org/anthology/P18-1116
+
+LONG
+Interpretable and Compositional Relation Learning by Joint Training with an Autoencoder
+Ryo Takahashi	東北大
+Ran Tian	東北大
+Kentaro Inui	東北大	理研
+http://aclweb.org/anthology/P18-1200
+
+LONG
+A Purely End-to-End System for Multi-speaker Speech Recognition
+Hiroshi Seki	三菱電機	豊橋技科大
+Takaaki Hori	三菱電機
+Shinji Watanabe	#Johns Hopkins
+Jonathan Le Roux	三菱電機
+John R. Hershey	三菱電機
+http://aclweb.org/anthology/P18-1244
+
+SHORT
+A Walk-based Model on Entity Graphs for Relation Extraction
+Fenia Christopoulou	#マンチェスター大	産総研
+Makoto Miwa	豊田工大	産総研
+Sophia Ananiadou	#マンチェスター大	産総研
+http://aclweb.org/anthology/P18-2014
+
+SHORT
+Ranking-Based Automatic Seed Selection and Noise Reduction for Weakly Supervised Relation Extraction
+Van-Thuy Phi	NAIST
+Joan Santoso	#Sekolah Tinggi Teknik Surabaya
+Masashi Shimbo	NAIST
+Yuji Matsumoto	NAIST	理研
+http://aclweb.org/anthology/P18-2015
+
+SHORT
+A Simple Language Model based Evaluator for Sentence Compression
+Yang Zhao	東大
+Zhiyuan Luo	東大
+Akiko Aizawa	NII
+http://aclweb.org/anthology/P18-2028
+
+SHORT
+Dynamic Sentence Sampling for Efficient Training of Neural Machine Translation
+Rui Wang	NICT
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+http://aclweb.org/anthology/P18-2048
+
+SHORT
+Improving Beam Search by Removing Monotonic Constraint for Neural Machine Translation
+Raphael Shu	東大
+Hideki Nakayama	東大
+http://aclweb.org/anthology/P18-2054
+
+SHORT
+Simplified Abugidas
+Chenchen Ding	NICT
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+http://aclweb.org/anthology/P18-2078
+
+SHORT
+Dynamic and Static Topic Model for Analyzing Time-Series Document Collections
+Rem Hida	東大
+Naoya Takeishi	理研	東大
+Takehisa Yairi	東大
+Koichi Hori	東大
+http://aclweb.org/anthology/P18-2082
+
+SHORT
+Unsupervised Learning of Style-sensitive Word Vectors
+Reina Akama	東北大
+Kento Watanabe	産総研
+Sho Yokoi	東北大	理研
+Sosuke Kobayashi	PFN
+Kentaro Inui	東北大	理研
+http://aclweb.org/anthology/P18-2091
+
+SHORT
+An Empirical Study of Building a Strong Baseline for Constituency Parsing
+Jun Suzuki	NTT
+Sho Takase	NTT
+Hidetaka Kamigaito	NTT
+Makoto Morishita	NTT
+Masaaki Nagata	NTT
+http://aclweb.org/anthology/P18-2097
+
+SHORT
+Enhancing Drug-Drug Interaction Extraction from Texts by Molecular Structure Information
+Masaki Asada	豊田工大
+Makoto Miwa	豊田工大
+Yutaka Sasaki	豊田工大
+http://aclweb.org/anthology/P18-2108
+
+SHORT
+Pretraining Sentiment Classifiers with Unlabeled Dialog Data
+Toru Shimizu	Yahoo!
+Nobuyuki Shimizu	Yahoo!	理研
+Hayato Kobayashi	Yahoo!
+http://aclweb.org/anthology/P18-2121
+
+STUDENT
+Recursive Neural Network Based Preordering for English-to-Japanese Machine Translation
+Yuki Kawara	阪大
+Chenhui Chu	阪大
+Yuki Arase	阪大
+http://aclweb.org/anthology/P18-3004
+
+STUDENT
+Graph-based Filtering of Out-of-Vocabulary Words for Encoder-Decoder Models
+Satoru Katsumata	首都大
+Yukio Matsumura	首都大
+Hayahide Yamagishi	首都大
+Mamoru Komachi	首都大
+http://aclweb.org/anthology/P18-3016
+ 
+
+DEMO
+Sentence Suggestion of Japanese Functional Expressions for Chinese-speaking Learners
+Jun Liu	NAIST
+Hiroyuki Shindo	NAIST	理研
+Yuji Matsumoto	NAIST	理研
+http://aclweb.org/anthology/P18-4010
+
+
+# COLING
+
+LONG
+Distance-Free Modeling of Multi-Predicate Interactions in End-to-End Japanese Predicate-Argument Structure Analysis
+Yuichiroh Matsubayashi	東北大	理研
+Kentaro Inui	東北大	理研
+http://aclweb.org/anthology/C18-1009
+
+LONG
+Representation Learning of Entities and Documents from Knowledge Base Descriptions
+Ikuya Yamada	Studio Ousia	理研
+Hiroyuki Shindo	NAIST	理研
+Yoshiyasu Takefuji	慶応大
+http://aclweb.org/anthology/C18-1016
+
+LONG
+Identifying Emergent Research Trends by Key Authors and Phrases
+Shenhao Jiang	#シンガポール国立大
+Animesh Prasad	#シンガポール国立大
+Min-Yen Kan	#シンガポール国立大
+Kazunari Sugiyama	#シンガポール国立大	NII
+http://aclweb.org/anthology/C18-1022
+
+LONG
+Interpretation of Implicit Conditions in Database Search Dialogues
+Shun-ya Fukunaga	東工大
+Hitoshi Nishikawa	東工大
+Takenobu Tokunaga	東工大
+Hikaru Yokono	富士通
+Tetsuro Takahashi	富士通
+http://aclweb.org/anthology/C18-1040
+
+LONG
+Implicit Discourse Relation Recognition using Neural Tensor Network with Interactive Attention and Sparse Learning
+Fengyu Guo	#天津大	#天津市認知計算応用重点実験室
+Ruifang He	#天津大	#天津市認知計算応用重点実験室
+Di Jin	#天津大	#天津市認知計算応用重点実験室
+Jianwu Dang	#天津大	#天津市認知計算応用重点実験室	JAIST
+Longbiao Wang	#天津大	#天津市認知計算応用重点実験室
+Xiangang Li	#滴滴出行
+http://aclweb.org/anthology/C18-1046
+
+LONG
+A Knowledge-Augmented Neural Network Model for Implicit Discourse Relation Classification
+Yudai Kishimoto	京大
+Yugo Murawaki	京大
+Sadao Kurohashi	京大
+http://aclweb.org/anthology/C18-1049
+
+LONG
+Improving Neural Machine Translation by Incorporating Hierarchical Subword Features
+Makoto Morishita	NTT
+Jun Suzuki	NTT
+Masaaki Nagata	NTT
+http://aclweb.org/anthology/C18-1052
+
+LONG
+An Empirical Study on Fine-Grained Named Entity Recognition
+Khai Mai	オルツ
+Thai-Hoang Pham	オルツ
+Minh Trung Nguyen	オルツ
+Nguyen Tuan Duc	オルツ
+Danushka Bollegala	#リバプール大
+Ryohei Sasano	名大
+Satoshi Sekine	理研
+http://aclweb.org/anthology/C18-1060
+
+LONG
+Dynamic Feature Selection with Attention in Incremental Parsing
+Ryosuke Kohita	IBM	NAIST
+Hiroshi Noji	産総研
+Yuji Matsumoto	NAIST
+http://aclweb.org/anthology/C18-1067
+
+LONG
+Answerable or Not: Devising a Dataset for Extending Machine Reading Comprehension
+Mao Nakanishi	早大
+Tetsunori Kobayashi	早大
+Yoshihiko Hayashi	早大
+http://aclweb.org/anthology/C18-1083
+
+LONG
+Adversarial Domain Adaptation for Variational Neural Language Generation in Dialogue Systems
+Van-Khanh Tran	JAIST	#タイグエン大
+Le-Minh Nguyen	JAIST
+http://aclweb.org/anthology/C18-1103
+
+LONG
+JTAV: Jointly Learning Social Media Content Representation by Fusing Textual, Acoustic, and Visual Features
+Hongru Liang	#南開大
+Haozheng Wang	#南開大
+Jun Wang	#魯東大
+Shaodi You	#オーストラリア国立大
+Zhe Sun	理研
+Jin-Mao Wei	#南開大
+Zhenglu Yang	#南開大
+http://aclweb.org/anthology/C18-1108
+
+LONG
+A Survey of Domain Adaptation for Neural Machine Translation
+Chenhui Chu	阪大
+Rui Wang	NICT
+http://aclweb.org/anthology/C18-1111
+
+LONG
+Interaction-Aware Topic Model for Microblog Conversations through Network Embedding and User Attention
+Ruifang He	#天津大	#天津市認知計算応用重点実験室
+Xuefei Zhang	#天津大	#天津市認知計算応用重点実験室
+Di Jin	#天津大	#天津市認知計算応用重点実験室
+Longbiao Wang	#天津大	#天津市認知計算応用重点実験室
+Jianwu Dang	#天津大	#天津市認知計算応用重点実験室	JAIST
+Xiangang Li	#滴滴出行
+http://aclweb.org/anthology/C18-1118
+
+LONG
+Cross-lingual Knowledge Projection Using Machine Translation and Target-side Knowledge Base Completion
+Naoki Otani	#CMU
+Hirokazu Kiyomaru	京大
+Daisuke Kawahara	京大
+Sadao Kurohashi	京大
+http://aclweb.org/anthology/C18-1128
+
+LONG
+Extractive Headline Generation Based on Learning to Rank for Community Question Answering
+Tatsuru Higurashi	Yahoo!
+Hayato Kobayashi	Yahoo!	理研
+Takeshi Masuyama	Yahoo!
+Kazuma Murao	Yahoo!
+http://aclweb.org/anthology/C18-1148
+
+LONG
+A Multi-Attention based Neural Network with External Knowledge for Story Ending Predicting Task
+Qian Li	#南開大
+Ziwei Li	#南開大
+Jin-Mao Wei	#南開大
+Yanhui Gu	#南京師範大
+Adam Jatowt	京大
+Zhenglu Yang	#南開大
+http://aclweb.org/anthology/C18-1149
+
+LONG
+Visual Question Answering Dataset for Bilingual Image Understanding: A Study of Cross-Lingual Transfer Using Attention Maps
+Nobuyuki Shimizu	Yahoo!
+Na Rong	東工大
+Takashi Miyazaki	Yahoo!
+http://aclweb.org/anthology/C18-1163
+
+LONG
+Exploring the Influence of Spelling Errors on Lexical Variation Measures
+Ryo Nagata	甲南大	理研
+Taisei Sato	甲南大
+Hiroya Takamura	産総研	東工大
+http://aclweb.org/anthology/C18-1202
+
+LONG
+Why does PairDiff work? - A Mathematical Analysis of Bilinear Relational Compositional Operators for Analogy Detection
+Huda Hakami	#リバプール大
+Kohei Hayashi	PFN
+Danushka Bollegala	#リバプール大
+http://aclweb.org/anthology/C18-1211
+
+LONG
+Using Formulaic Expressions in Writing Assistance Systems
+Kenichi Iwatsuki	東大
+Akiko Aizawa	NII	東大
+http://aclweb.org/anthology/C18-1227
+
+LONG
+An Empirical Investigation of Error Types in Vietnamese Parsing
+Quy T. Nguyen	#ホーチミン市通信工芸大
+Yusuke Miyao	NII
+Hiroshi Noji	産総研
+Nhung T.H. Nguyen	#ホーチミン市自然科学大
+http://aclweb.org/anthology/C18-1260
+
+LONG
+Neural Machine Translation Incorporating Named Entity
+Arata Ugawa	東工大
+Akihiro Tamura	愛媛大
+Takashi Ninomiya	愛媛大
+Hiroya Takamura	東工大	産総研
+Manabu Okumura	東工大
+http://aclweb.org/anthology/C18-1274
+
+LONG
+Predicting Stances from Social Media Posts using Factorization Machines
+Akira Sasaki	リクルート
+Kazuaki Hanawa	東北大
+Naoaki Okazaki	東工大	産総研
+Kentaro Inui	東北大	理研
+http://aclweb.org/anthology/C18-1286
+
+LONG
+iParaphrasing: Extracting Visually Grounded Paraphrases via an Image
+Chenhui Chu	阪大
+Mayu Otani	サイバーエージェント
+Yuta Nakashima	阪大
+http://aclweb.org/anthology/C18-1295
+
+LONG
+Multi-task and Multi-lingual Joint Learning of Neural Lexical Utterance Classification based on Partially-shared Modeling
+Ryo Masumura	NTT
+Tomohiro Tanaka	NTT
+Ryuichiro Higashinaka	NTT
+Hirokazu Masataki	NTT
+Yushi Aono	NTT
+http://aclweb.org/anthology/C18-1304
+
+LONG
+Addressee and Response Selection for Multilingual Conversation
+Motoki Sato	PFN
+Hiroki Ouchi	理研	東北大
+Yuta Tsuboi	PFN
+http://aclweb.org/anthology/C18-1308
+
+LONG
+Integrating Tree Structures and Graph Structures with Neural Networks to Classify Discussion Discourse Acts
+Yasuhide Miura	富士ゼロックス	東工大
+Ryuji Kano	富士ゼロックス
+Motoki Taniguchi	富士ゼロックス
+Tomoki Taniguchi	富士ゼロックス
+Shotaro Misawa	富士ゼロックス
+Tomoko Ohkuma	富士ゼロックス
+http://aclweb.org/anthology/C18-1322
+
+DEMO
+Detecting Heavy Rain Disaster from Social and Physical Sensors
+Tomoya Iwakura	富士通
+Seiji Okajima	富士通
+Nobuyuki Igata	富士通
+Kuhihiro Takeda	富士通
+Yuzuru Yamakage	富士通
+Naoshi Morita	富士通
+http://aclweb.org/anthology/C18-2014
+
+
+# EMNLP
+
+SHORT
+Neural Latent Relational Analysis to Capture Lexical Semantic Relation in a Vector Space
+Koki Washio	東大	理研
+Tsuneaki Kato	東大
+http://aclweb.org/anthology/D18-1058
+
+SHORT
+Learning Unsupervised Word Translations Without Adversaries
+Tanmoy Mukherjee	#エジンバラ大
+Makoto Yamada	京大	理研	JST
+Timothy Hospedales	#エジンバラ大
+http://aclweb.org/anthology/D18-1063
+
+SHORT
+Adversarial Training for Multi-task and Multi-lingual Joint Modeling of Utterance Intent Classification
+Ryo Masumura	NTT
+Yusuke Shinohara	NTT
+Ryuichiro Higashinaka	NTT
+Yushi Aono	NTT
+http://aclweb.org/anthology/D18-1064
+
+
+SHORT
+HFT-CNN: Learning Hierarchical Category Structure for Multi-label Short Text Categorization
+Kazuya Shimura	山梨大
+Jiyi Li	山梨大
+Fumiyo Fukumoto	山梨大
+http://aclweb.org/anthology/D18-1093
+
+SHORT
+Harnessing Popularity in Social Media for Extractive Summarization of Online Conversations
+Ryuji Kano	富士ゼロックス
+Yasuhide Miura	富士ゼロックス
+Motoki Taniguchi	富士ゼロックス
+Yan-Ying Chen	#FXPAL
+Francine Chen	#FXPAL
+Tomoko Ohkuma	富士ゼロックス
+http://aclweb.org/anthology/D18-1144
+
+LONG
+A Span Selection Model for Semantic Role Labeling
+Hiroki Ouchi	理研	東北大
+Hiroyuki Shindo	NAIST	理研
+Yuji Matsumoto	NAIST	理研
+http://aclweb.org/anthology/D18-1191
+
+LONG
+Pointwise HSIC: A Linear-Time Kernelized Co-occurrence Norm for Sparse Linguistic Expressions
+Sho Yokoi	東北大	理研
+Sosuke Kobayashi	PFN
+Kenji Fukumizu	統数研
+Jun Suzuki	東北大	理研
+Kentaro Inui	東北大	理研
+http://aclweb.org/anthology/D18-1203
+
+LONG
+Discriminative Learning of Open-Vocabulary Object Retrieval and Localization by Negative Phrase Augmentation
+Ryota Hinami	東大	NII
+Shin'ichi Satoh	NII	東大
+http://aclweb.org/anthology/D18-1281
+
+SHORT
+Deep Exhaustive Model for Nested Named Entity Recognition
+Mohammad Golam Sohrab	産総研
+Makoto Miwa	産総研	豊田工大
+http://aclweb.org/anthology/D18-1309
+
+LONG
+Playing 20 Question Game with Policy-Based Reinforcement Learning
+Huang Hu	#北京大
+Xianchao Wu	Microsoft Development
+Bingfeng Luo	#北京大
+Chongyang Tao	#北京大
+Can Xu	#Microsoft (China)
+Wei Wu	#Microsoft (China)
+Zhan Chen	Microsoft Development
+http://aclweb.org/anthology/D18-1361
+
+LONG
+Frustratingly Easy Model Ensemble for Abstractive Summarization
+Hayato Kobayashi	Yahoo!	理研
+http://aclweb.org/anthology/D18-1449
+
+LONG
+Automatic Pyramid Evaluation Exploiting EDU-based Extractive Reference Summaries
+Tsutomu Hirao	NTT
+Hidetaka Kamigaito	東工大
+Masaaki Nagata	NTT
+http://aclweb.org/anthology/D18-1450
+
+LONG
+What Makes Reading Comprehension Questions Easier?
+Saku Sugawara	東大
+Kentaro Inui	東北大	理研
+Satoshi Sekine	理研
+Akiko Aizawa	NII	東大
+http://aclweb.org/anthology/D18-1453
+
+LONG
+Analyzing Correlated Evolution of Multiple Features Using Latent Representations
+Yugo Murawaki	京大
+http://aclweb.org/anthology/D18-1468
+
+LONG
+Direct Output Connection for a High-Rank Language Model
+Sho Takase	NTT
+Jun Suzuki	NTT	東北大
+Masaaki Nagata	NTT
+http://aclweb.org/anthology/D18-1489
+
+SHORT
+Exploring Recombination for Efficient Decoding of Neural Machine Translation
+Zhisong Zhang	#(所属不明)
+Rui Wang	NICT
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+Hai Zhao	#上海交通大
+http://aclweb.org/anthology/D18-1511
+
+SHORT
+Refining Pretrained Word Embeddings Using Layer-wise Relevance Propagation
+Akira Utsumi	電通大
+http://aclweb.org/anthology/D18-1520
+
+DEMO
+Juman++: A Morphological Analysis Toolkit for Scriptio Continua
+Arseny Tolmachev	京大
+Daisuke Kawahara	京大
+Sadao Kurohashi	京大
+http://aclweb.org/anthology/D18-2010
+
+DEMO
+SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing.
+Taku Kudo	Google
+John Richardson	Google
+http://aclweb.org/anthology/D18-2012
+
+DEMO
+CytonMT: an Efficient Neural Machine Translation Open-source Toolkit Implemented in C++
+Xiaolin Wang	NICT
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+http://aclweb.org/anthology/D18-2023
