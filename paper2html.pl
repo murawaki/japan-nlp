@@ -115,7 +115,7 @@ printf <<'__DOC_HEADER__';
 <h1>日本所属の言語処理トップカンファレンス論文 (2018年)</h1>
 <div>
 <p class="text-right">MURAWAKI Yugo</p>
-<p class="text-right">Last Update: October 26, 2018.</p>
+<p class="text-right">Last Update: October 27, 2018.</p>
 </div>
 
 <div>
@@ -127,9 +127,10 @@ printf <<'__DOC_HEADER__';
 方針:
 <ul>
 <li>full paper 1 本に対して、short paper は 0.75 本、student research workshop/system demonstration は 0.5 本換算。</li>
+<li>所属は大学、研究所、企業くらいの単位で近似しています。実際の研究グループはそれよりも小さい単位の方が多いと思いますが、外部から客観的にそれを同定するのは難しいので。</li>
 <li>著者が複数の場合は、第1著者に 0.5 を配分し、残りの 0.5 は以降の著者で等分。</li>
 <li>1人の著者に複数の所属がある場合は等分。</li>
-<li>所属は論文における著者の自己申告に機械的に従います。そうでないと、他の組織の事情まではわからず、一貫性が保てないので。</li>
+<li>所属は論文における著者の自己申告に機械的に従います。</li>
 </ul>
 </div>
 __DOC_HEADER__

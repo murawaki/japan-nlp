@@ -640,7 +640,7 @@ http://aclweb.org/anthology/D18-1489
 
 SHORT
 Exploring Recombination for Efficient Decoding of Neural Machine Translation
-Zhisong Zhang	#(所属不明)
+Zhisong Zhang	#上海交通大	NICT
 Rui Wang	NICT
 Masao Utiyama	NICT
 Eiichiro Sumita	NICT
