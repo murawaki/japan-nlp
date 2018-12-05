@@ -262,8 +262,8 @@ http://aclweb.org/anthology/P18-2108
 SHORT
 Pretraining Sentiment Classifiers with Unlabeled Dialog Data
 Toru Shimizu	Yahoo!
-Nobuyuki Shimizu	Yahoo!	理研
-Hayato Kobayashi	Yahoo!
+Hayato Kobayashi	Yahoo!	理研
+Nobuyuki Shimizu	Yahoo!
 http://aclweb.org/anthology/P18-2121
 
 STUDENT
@@ -662,7 +662,7 @@ http://aclweb.org/anthology/D18-2010
 DEMO
 SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing.
 Taku Kudo	Google
-John Richardson	Google
+John Richardson	#Google
 http://aclweb.org/anthology/D18-2012
 
 DEMO
