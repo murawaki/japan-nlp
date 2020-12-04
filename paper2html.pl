@@ -45,6 +45,8 @@ while (<STDIN>) {
     } elsif ($action eq "AUTHOR") {
 	$action = "AUTHOR";
 	$buf = $_;
+    } else {
+	die "$lineno\tunrecognized line";
     }
 
     if ($action eq "TYPE") {
@@ -71,7 +73,11 @@ while (<STDIN>) {
     }
 }
 if ($paper) {
-    push(@$paperList, $paper);
+    if ($action eq "URL") {
+	push(@$paperList, $paper);
+    } else {
+	die "incomplete unit";
+    }
 }
 
 # Dumpvalue->new->dumpValue($paperList);
