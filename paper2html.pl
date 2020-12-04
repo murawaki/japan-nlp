@@ -33,7 +33,7 @@ while (<STDIN>) {
 	}
 	$action = "URL";
 	$buf = $_;
-    } elsif (/^(LONG|SHORT|STUDENT|DEMO)$/) {
+    } elsif (/^(LONG|SHORT|INDUSTRY|STUDENT|DEMO)$/) {
 	$action = "TYPE";
 	$buf = $_;
     } elsif ($action eq "TYPE") {
@@ -70,6 +70,9 @@ while (<STDIN>) {
 	die "unsupported operation";
     }
 }
+if ($paper) {
+    push(@$paperList, $paper);
+}
 
 # Dumpvalue->new->dumpValue($paperList);
 # exit;
@@ -88,7 +91,7 @@ foreach my $paper (@$paperList) {
 	} else {
 	    $w = 0.5 / ($L - 1);
 	}
-	if ($paper->{"type"} eq "SHORT") {
+	if ($paper->{"type"} =~ /^(SHORT|INDUSTRY)$/) {
 	    $w *= 0.75;
 	} elsif ($paper->{"type"} =~ /^(STUDENT|DEMO)$/) {
 	    $w *= 0.5;
@@ -112,21 +115,22 @@ my @sorted = sort { $affCount->{$b} <=> $affCount->{$a} or $a cmp $b } keys(%$af
 
 printf <<'__DOC_HEADER__';
 <div class="container-fluid">
-<h1>日本所属の言語処理トップカンファレンス論文 (2018年)</h1>
+<h1>日本所属の言語処理トップカンファレンス論文 (2020年)</h1>
 <div>
 <p class="text-right">MURAWAKI Yugo</p>
-<p class="text-right">Last Update: October 27, 2018.</p>
+<p class="text-right">Last Update: December 4, 2020.</p>
 </div>
 
 <div>
 <p>
-日本の組織を所属とする者が、2018年に言語処理のトップカンファレンスもしくはトップ論文誌で発表した論文一覧です (<a href="http://murawaki.org/misc/japan-nlp-2017.html">2017年版</a>。<a href="http://murawaki.org/misc/japan-nlp-2016.html">2016年版</a>。<a href="http://phontron.com/misc/japan-nlp-2015.html">2015年版</a>、<a href="http://phontron.com/misc/japan-nlp-2014.html">2014年版</a>は Graham Neubig さん (NAIST、現 CMU) が作成)。
-対象は TACL、NAACL、ACL、COLING、EMNLP です。Student/Demo 論文も含みます。
+日本の組織を所属とする者が、2020年に言語処理のトップカンファレンスもしくはトップ論文誌で発表した論文一覧です (<a href="http://murawaki.org/misc/japan-nlp-2019.html">2019年版</a>、<a href="http://murawaki.org/misc/japan-nlp-2018.html">2018年版</a>、<a href="http://murawaki.org/misc/japan-nlp-2017.html">2017年版</a>、<a href="http://murawaki.org/misc/japan-nlp-2016.html">2016年版</a>。<a href="http://phontron.com/misc/japan-nlp-2015.html">2015年版</a>、<a href="http://phontron.com/misc/japan-nlp-2014.html">2014年版</a>は Graham Neubig さん (NAIST、現 CMU) が作成)。
+対象は TACL、ACL、EMNLP、COLING です (Findings は除外)。Industry/Student/Demo 論文も含みます。
 収集は手作業なので漏れがあるかもしれません。
+データ・スクリプトは <a href="https://github.com/murawaki/japan-nlp/">GitHub</a> で公開しているのでご自由にお使いください。
 </p>
 方針:
 <ul>
-<li>full paper 1 本に対して、short paper は 0.75 本、student research workshop/system demonstration は 0.5 本換算。</li>
+<li>full paper 1 本に対して、industry track/short paper は 0.75 本、student research workshop/system demonstration は 0.5 本換算。</li>
 <li>所属は大学、研究所、企業くらいの単位で近似しています。実際の研究グループはそれよりも小さい単位の方が多いと思いますが、外部から客観的にそれを同定するのは難しいので。</li>
 <li>著者が複数の場合は、第1著者に 0.5 を配分し、残りの 0.5 は以降の著者で等分。</li>
 <li>1人の著者に複数の所属がある場合は等分。</li>

@@ -1,0 +1,936 @@
+#TACL
+
+LONG
+Membership Inference Attacks on Sequence-to-Sequence Models: Is My Data In Your Machine Translation System?
+Sorami Hisamoto	ワークスアプリケーションズ
+Matt Post	#ジョンズホプキンス
+Kevin Duh	#ジョンズホプキンス
+https://www.aclweb.org/anthology/2020.tacl-1.4.pdf
+
+LONG
+Unsupervised Discourse Constituency Parsing Using Viterbi EM
+Noriki Nishida	東大
+Hideki Nakayama	東大
+https://www.aclweb.org/anthology/2020.tacl-1.15.pdf
+
+LONG
+Nested Named Entity Recognition via Second-best Sequence Learning and Decoding
+Takashi Shibuya	#CMU	Sony
+Eduard Hovy	#CMU
+https://www.aclweb.org/anthology/2020.tacl-1.39.pdf
+
+LONG
+Synthesizing Parallel Data of User-Generated Texts with Zero-Shot Neural Machine Translation
+Benjamin Marie	NICT
+Atsushi Fujita	NICT
+https://www.aclweb.org/anthology/2020.tacl-1.46.pdf
+
+
+# ACL
+
+SHORT
+Designing Precise and Robust Dialogue Response Evaluators
+Tianyu Zhao	京大
+Divesh Lala	京大
+Tatsuya Kawahara	京大
+https://www.aclweb.org/anthology/2020.acl-main.4.pdf
+
+LONG
+Fact-based Text Editing
+Hayate Iso	NAIST
+Chao Qiao	#ByteDance
+Hang Li	#ByteDance
+https://www.aclweb.org/anthology/2020.acl-main.17.pdf
+
+SHORT
+Text Classification with Negative Supervision
+Sora Ohashi	阪大
+Junya Takayama	阪大
+Tomoyuki Kajiwara	阪大
+Chenhui Chu	阪大
+Yuki Arase	阪大
+https://www.aclweb.org/anthology/2020.acl-main.33.pdf
+
+SHORT
+Content Word Aware Neural Machine Translation
+Kehai Chen	NICT
+Rui Wang	NICT
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+https://www.aclweb.org/anthology/2020.acl-main.34.pdf
+
+SHORT
+A Three-Parameter Rank-Frequency Relation in Natural Languages
+Chenchen Ding	NICT
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+https://www.aclweb.org/anthology/2020.acl-main.44.pdf
+
+LONG
+Language Models as an Alternative Evaluator of Word Order Hypotheses: A Case Study in Japanese
+Tatsuki Kuribayashi	東北大	Langsmith
+Takumi Ito	東北大	Langsmith
+Jun Suzuki	東北大	理研
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.acl-main.47.pdf
+
+SHORT
+Evaluating Dialogue Generation Systems via Response Selection
+Shiki Sato	東北大
+Reina Akama	東北大	理研
+Hiroki Ouchi	理研	東北大
+Jun Suzuki	東北大	理研
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.acl-main.55.pdf
+
+LONG
+Interactive Construction of User-Centric Dictionary for Text Analytics
+Ryosuke Kohita	#IBM
+Issei Yoshida	IBM
+Hiroshi Kanayama	IBM
+Tetsuya Nasukawa	IBM
+https://www.aclweb.org/anthology/2020.acl-main.72.pdf
+
+SHORT
+Tree-Structured Neural Topic Model
+Masaru Isonuma	東大
+Junichiro Mori	東大
+Danushka Bollegala	#リヴァプール大
+Ichiro Sakata	東大
+https://www.aclweb.org/anthology/2020.acl-main.73.pdf
+
+LONG
+Improving Image Captioning Evaluation by Considering Inter References Variance
+Yanzhi Yi	早大
+Hangyu Deng	早大
+Jinglu Hu	早大
+https://www.aclweb.org/anthology/2020.acl-main.93.pdf
+
+LONG
+Revisiting the Context Window for Cross-lingual Word Embeddings
+Ryokan Ri	東大
+Yoshimasa Tsuruoka	東大
+https://www.aclweb.org/anthology/2020.acl-main.94.pdf
+
+SHORT
+Keyphrase Generation for Scientific Document Retrieval
+Florian Boudin	#ナント大
+Ygor Gallina	#ナント大
+Akiko Aizawa	NII
+https://www.aclweb.org/anthology/2020.acl-main.105.pdf
+
+LONG
+Improving Truthfulness of Headline Generation
+Kazuki Matsumaru	東工大
+Sho Takase	東工大
+Naoaki Okazaki	東工大
+https://www.aclweb.org/anthology/2020.acl-main.123.pdf
+
+SHORT
+Enhancing Machine Translation with Dependency-Aware Self-Attention
+Emanuele Bugliarello	#コペンハーゲン大
+Naoaki Okazaki	東工大
+https://www.aclweb.org/anthology/2020.acl-main.147.pdf
+
+SHORT
+It’s Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information
+Emanuele Bugliarello	#コペンハーゲン大
+Sabrina J. Mielke	#ジョンズホプキンス大
+Antonios Anastasopoulos	#CMU
+Ryan Cotterell	#ケンブリッジ大	#ETH Zürich
+Naoaki Okazaki	東工大
+https://www.aclweb.org/anthology/2020.acl-main.149.pdf
+
+SHORT
+Single Model Ensemble using Pseudo-Tags and Distinct Vectors
+Ryosuke Kuwabara	東大
+Jun Suzuki	東北大	理研
+Hideki Nakayama	東大
+https://www.aclweb.org/anthology/2020.acl-main.271.pdf
+
+SHORT
+Towards Better Non-Tree Argument Mining: Proposition-Level Biaffine Parsing with Task-Specific Parameterization
+Gaku Morio	日立
+Hiroaki Ozaki	日立
+Terufumi Morishita	日立
+Yuta Koreeda	日立
+Kohsuke Yanai	日立
+https://www.aclweb.org/anthology/2020.acl-main.298.pdf
+
+LONG
+Stock Embeddings Acquired from News Articles and Price History, and an Application to Portfolio Optimization
+Xin Du	東大
+Kumiko Tanaka-Ishii	東大
+https://www.aclweb.org/anthology/2020.acl-main.307.pdf
+
+LONG
+An Analysis of the Utility of Explicit Negative Examples to Improve the Syntactic Abilities of Neural Language Models
+Hiroshi Noji	産総研
+Hiroya Takamura	産総研
+https://www.aclweb.org/anthology/2020.acl-main.309.pdf
+
+LONG
+Knowledge Distillation for Multilingual Unsupervised Neural Machine Translation
+Haipeng Sun	#ハルビン工業大
+Rui Wang	NICT
+Kehai Chen	NICT
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+Tiejun Zhao	#ハルビン工業大
+https://www.aclweb.org/anthology/2020.acl-main.324.pdf
+
+SHORT
+Automatic Machine Translation Evaluation using Source Language Inputs and Cross-lingual Language Model
+Kosuke Takahashi	NAIST
+Katsuhito Sudoh	NAIST	JST
+Satoshi Nakamura	NAIST
+https://www.aclweb.org/anthology/2020.acl-main.327.pdf
+
+LONG
+Investigating Word-Class Distributions in Word Vector Spaces
+Ryohei Sasano	名大
+Anna Korhonen	#ケンブリッジ大
+https://www.aclweb.org/anthology/2020.acl-main.337.pdf
+
+SHORT
+ncoder-Decoder Models Can Benefit from Pre-trained Masked Language Models in Grammatical Error Correction
+Masahiro Kaneko	都立大	理研
+Masato Mita	理研	東北大
+Shun Kiyono	理研	東北大
+Jun Suzuki	東北大	理研
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.acl-main.391.pdf
+
+SHORT
+Tagged Back-translation Revisited: Why Does It Really Work?
+Benjamin Marie	NICT
+Raphael Rubino	NICT
+Atsushi Fujita	NICT
+https://www.aclweb.org/anthology/2020.acl-main.532.pdf
+
+LONG
+Do Neural Models Learn Systematicity of Monotonicity Inference in Natural Language?
+Hitomi Yanaka	理研
+Koji Mineshima	慶応大
+Daisuke Bekki	お茶大
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.acl-main.543.pdf
+
+SHORT
+Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition
+Hiroki Ouchi	理研	東北大
+Jun Suzuki	東北大	理研
+Sosuke Kobayashi	東北大	PFN
+Sho Yokoi	東北大	理研
+Tatsuki Kuribayashi	東北大	Langsmith
+Ryuto Konno	東北大
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.acl-main.575.pdf
+
+SHORT
+R4C: A Benchmark for Evaluating RC Systems to Get the Right Answer for the Right Reason
+Naoya Inoue	東北大	理研
+Pontus Stenetorp	理研	#UCL
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.acl-main.602.pdf
+
+LONG
+Semi-Supervised Semantic Dependency Parsing Using CRF Autoencoders
+Zixia Jia	#上海科技大	#中国科学院	#中国科学院大
+Youmi Ma	東工大
+Jiong Cai	#上海科技大	#中国科学院	#中国科学院大
+Kewei Tu	#上海科技大	#中国科学院	#中国科学院大
+https://www.aclweb.org/anthology/2020.acl-main.607.pdf
+
+SHORT
+Regularized Context Gates on Transformer for Machine Translation
+Xintong Li	#香港中文大
+Lemao Liu	#Tencent
+Rui Wang	NICT
+Guoping Huang	#Tencent
+Max Meng	#香港中文大
+https://www.aclweb.org/anthology/2020.acl-main.757.pdf
+
+DEMO
+Tabouid: a Wikipedia-based word guessing game
+Timothée Bernard	産総研
+https://www.aclweb.org/anthology/2020.acl-demos.4.pdf
+
+DEMO
+ESPnet-ST: All-in-One Speech Translation Toolkit
+Hirofumi Inaguma	京大
+Shun Kiyono	理研
+Kevin Duh	#ジョンズホプキンス大
+Shigeki Karita	NTT
+Nelson Yalta	早大
+Tomoki Hayashi	名大	Human Dataware Lab
+Shinji Watanabe	#ジョンズホプキンス
+https://www.aclweb.org/anthology/2020.acl-demos.34.pdf
+
+STUDENT
+Grammatical Error Correction Using Pseudo Learner Corpus Considering Learner’s Error Tendency
+Yujin Takahashi	都立大
+Satoru Katsumata	都立大
+Mamoru Komachi	都立大
+https://www.aclweb.org/anthology/2020.acl-srw.5.pdf
+
+STUDENT
+Research on Task Discovery for Transfer Learning in Deep Neural Networks
+Arda Akdemir	東大
+https://www.aclweb.org/anthology/2020.acl-srw.6.pdf
+
+STUDENT
+Reflection-based Word Attribute Transfer
+Yoichi Ishibashi	NAIST
+Katsuhito Sudoh	NAIST
+Koichiro Yoshino	NAIST
+Satoshi Nakamura	NAIST
+https://www.aclweb.org/anthology/2020.acl-srw.8.pdf
+
+STUDENT
+Zero-shot North Korean to English Neural Machine Translation by Character Tokenization and Phoneme Decomposition
+Hwichan Kim	都立大
+Tosho Hirasawa	都立大
+Mamoru Komachi	都立大
+https://www.aclweb.org/anthology/2020.acl-srw.11.pdf
+
+STUDENT
+uBLEU: Uncertainty-Aware Automatic Evaluation Method for Open-Domain Dialogue Systems
+Tsuta Yuma	東大
+Naoki Yoshinaga	東大
+Masashi Toyoda	東大
+https://www.aclweb.org/anthology/2020.acl-srw.27.pdf
+
+STUDENT
+AraDIC: Arabic Document Classification Using Image-Based Character Embeddings and Class-Balanced Loss
+Mahmoud Daif	法政大
+Shunsuke Kitada	法政大
+Hitoshi Iyatomi	法政大
+https://www.aclweb.org/anthology/2020.acl-srw.29.pdf
+
+STUDENT
+Embeddings of Label Components for Sequence Labeling: A Case Study of Fine-grained Named Entity Recognition
+Takuma Kato	東北大
+Kaori Abe	東北大	理研
+Hiroki Ouchi	理研	東北大
+Shumpei Miyawaki	東北大
+Jun Suzuki	東北大	理研
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.acl-srw.30.pdf
+
+STUDENT
+Building a Japanese Typo Dataset from Wikipedia’s Revision History
+Yu Tanaka	京大
+Yugo Murawaki	京大
+Daisuke Kawahara	京大
+Sadao Kurohashi	京大
+https://www.aclweb.org/anthology/2020.acl-srw.31.pdf
+
+STUDENT
+Preventing Critical Scoring Errors in Short Answer Scoring with Confidence Estimation
+Hiroaki Funayama	東北大	理研
+Shota Sasaki	理研	東北大
+Yuichiroh Matsubayashi	東北大	理研
+Tomoya Mizumoto	フューチャー	理研
+Jun Suzuki	東北大	理研
+Masato Mita	理研	東北大
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.acl-srw.32.pdf
+
+STUDENT
+Logical Inferences with Comparatives and Generalized Quantifiers
+Izumi Haruta	お茶大
+Koji Mineshima	慶応大
+Daisuke Bekki	お茶大
+https://www.aclweb.org/anthology/2020.acl-srw.35.pdf
+
+STUDENT
+Pre-training via Leveraging Assisting Languages for Neural Machine Translation
+Haiyue Song	京大
+Raj Dabre	NICT
+Zhuoyuan Mao	京大
+Fei Cheng	京大
+Sadao Kurohashi	京大
+Eiichiro Sumita	NICT
+https://www.aclweb.org/anthology/2020.acl-srw.37.pdf
+
+
+# EMNLP
+
+LONG
+Q-learning with Language Model for Edit-based Unsupervised Summarization
+Ryosuke Kohita	IBM
+Akifumi Wachi	IBM
+Yang Zhao	IBM
+Ryuki Tachibana	IBM
+https://www.aclweb.org/anthology/2020.emnlp-main.34.pdf
+
+LONG
+A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT
+Masaaki Nagata	NTT
+Katsuki Chousa	NTT
+Masaaki Nishino	NTT
+https://www.aclweb.org/anthology/2020.emnlp-main.41.pdf
+
+LONG
+Filtering Noisy Dialogue Corpora by Connectivity and Content Relatedness
+Reina Akama	東北大	理研
+Sho Yokoi	東北大	理研
+Jun Suzuki	東北大	理研
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.emnlp-main.68.pdf
+
+LONG
+Latent Geographical Factors for Analyzing the Evolution of Dialects in Contact
+Yugo Murawaki	京大
+https://www.aclweb.org/anthology/2020.emnlp-main.69.pdf
+
+LONG
+Local Additivity Based Data Augmentation for Semi-supervised NER
+Jiaao Chen	#ジョージア工科大
+Zhenghui Wang	#ジョージア工科大
+Ran Tian	産総研
+Zichao Yang	#Citadel Securities
+Diyi Yang	#ジョージア工科大
+https://www.aclweb.org/anthology/2020.emnlp-main.95.pdf
+
+LONG
+Compositional Phrase Alignment and Beyond
+Yuki Arase	阪大	産総研
+Jun'ichi Tsujii	産総研	#マンチェスター大
+https://www.aclweb.org/anthology/2020.emnlp-main.125.pdf
+
+LONG
+A Method for Building a Commonsense Inference Dataset based on Basic Events
+Kazumasa Omura	京大
+Daisuke Kawahara	京大
+Sadao Kurohashi	京大
+https://www.aclweb.org/anthology/2020.emnlp-main.192.pdf
+
+SHORT
+Parsing Gapping Constructions Based on Grammatical and Semantic Roles
+Yoshihide Kato	名大
+Shigeki Matsubara	名大
+https://www.aclweb.org/anthology/2020.emnlp-main.218.pdf
+
+LONG
+Word Rotator's Distance
+Sho Yokoi	東北大	理研
+Ryo Takahashi	東北大	理研
+Reina Akama	東北大	理研
+Jun Suzuki	東北大	理研
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.emnlp-main.236.pdf
+
+SHORT
+Bootstrapped Q-learning with Context Relevant Observation Pruning to Generalize in Text-based Games
+Subhajit Chaudhury	IBM
+Daiki Kimura	IBM
+Kartik Talamadupula	#IBM
+Michiaki Tatsubori	IBM
+Asim Munawar	IBM
+Ryuki Tachibana	IBM
+https://www.aclweb.org/anthology/2020.emnlp-main.241.pdf
+
+LONG
+A Visually-grounded First-person Dialogue Datasetwith Verbal and Non-verbal Responses
+Hisashi Kamezawa	東大
+Noriki Nishida	理研
+Nobuyuki Shimizu	Yahoo!
+Takashi Miyazaki	Yahoo!
+Hideki Nakayama	東大
+https://www.aclweb.org/anthology/2020.emnlp-main.267.pdf
+
+LONG
+DAGA: Data Augmentation with a Generation Approach forLow-resource Tagging Tasks
+Bosheng Ding	#南洋理工大	#Alibaba
+Linlin Liu	#南洋理工大	#Alibaba
+Lidong Bing	#Alibaba
+Canasai Kruengkrai	NII
+Thien Hai Nguyen	#Alibaba
+Shafiq Joty	#南洋理工大
+Luo Si	#Alibaba
+Chunyan Miao	#南洋理工大
+https://www.aclweb.org/anthology/2020.emnlp-main.488.pdf
+
+LONG
+VCDM: Leveraging Variational Bi-encoding and Deep Contextualized Word Representations for Improved Definition Modeling
+Machel Reid	東大
+Edison Marrese-Taylor	東大
+Yutaka Matsuo	東大
+https://www.aclweb.org/anthology/2020.emnlp-main.513.pdf
+
+LONG
+LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention
+Ikuya Yamada	Studio Ousia	理研
+Akari Asai	#ワシントン大
+Hiroyuki Shindo	NAIST	理研
+Hideaki Takeda	NII
+Yuji Matsumoto	理研
+https://www.aclweb.org/anthology/2020.emnlp-main.523.pdf
+
+SHORT
+HSCNN: A Hybrid-Siamese Convolutional Neural Network for Extremely Imbalanced Multi-label Text Classification
+Wenshuo Yang	#杭州電子科技大	山梨大
+Jiyi Li	山梨大
+Fumiyo Fukumoto	山梨大
+Yanming Ye	#杭州電子科技大
+https://www.aclweb.org/anthology/2020.emnlp-main.545.pdf
+
+LONG
+Attention is Not Only a Weight: Analyzing Transformers with Vector Norms
+Goro Kobayashi	東北大
+Tatsuki Kuribayashi	東北大	Langsmith
+Sho Yokoi	東北大	理研
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.emnlp-main.574.pdf
+
+LONG
+Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations
+Taichi Ishiwatari	NHK技研
+Yuki Yasuda	NHK技研
+Taro Miyazaki	NHK技研
+Jun Goto	NHK技研
+https://www.aclweb.org/anthology/2020.emnlp-main.597.pdf
+
+SHORT
+PatchBERT: Just-in-Time, Out-of-Vocabulary Patching
+Sangwhan Moon	東工大	#Odd Concepts
+Naoaki Okazaki	東工大
+https://www.aclweb.org/anthology/2020.emnlp-main.631.pdf
+
+DEMO
+Wikipedia2Vec: An Efficient Toolkit for Learning and Visualizing the Embeddings of Words and Entities from Wikipedia
+Ikuya Yamada	Studio Ousia	理研
+Akari Asai	#ワシントン大
+Jin Sakuma	東大
+Hiroyuki Shindo	NAIST	理研
+Hideaki Takeda	NII
+Yoshiyasu Takefuji	慶応大
+Yuji Matsumoto	理研
+https://www.aclweb.org/anthology/2020.emnlp-demos.4.pdf
+
+DEMO
+BENNERD: A Neural Named Entity Linking System for COVID-19
+Mohammad Golam Sohrab	産総研
+Khoa Duong	産総研
+Makoto Miwa	産総研	豊田工大
+Goran Topić	産総研
+Ikeda Masami	産総研
+Takamura Hiroya	産総研
+https://www.aclweb.org/anthology/2020.emnlp-demos.24.pdf
+
+DEMO
+Langsmith: An Interactive Academic Text Revision System
+Takumi Ito	東北大	Langsmith
+Tatsuki Kuribayashi	東北大	Langsmith
+Masatoshi Hidaka	エッジインテリジェンス
+Jun Suzuki	東北大	理研
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.emnlp-demos.28.pdf
+
+
+# COLING
+
+LONG
+Pointing to Subwords for Generating Function Names in Source Code
+Shogo Fujita	東工大
+Hidetaka Kamigaito	東工大
+Hiroya Takamura	東工大	産総研
+Manabu Okumura	東工大
+https://www.aclweb.org/anthology/2020.coling-main.28.pdf
+
+LONG
+Answering Legal Questions by Learning Neural Attentive Text Representation
+Phi Manh Kien	#郵政電信工芸学院
+Ha-Thanh Nguyen	JAIST
+Ngo Xuan Bach	#郵政電信工芸学院
+Vu Tran	JAIST
+Minh Le Nguyen	JAIST
+Tu Minh Phuong	#郵政電信工芸学院
+https://www.aclweb.org/anthology/2020.coling-main.86.pdf
+
+SHORT
+Tiny Word Embeddings Using Globally Informed Reconstruction
+Sora Ohashi	阪大
+Mao Isogawa	阪大
+Tomoyuki Kajiwara	阪大
+Yuki Arase	阪大
+https://www.aclweb.org/anthology/2020.coling-main.103.pdf
+
+LONG
+BERT-based Cohesion Analysis of Japanese Texts
+Nobuhiro Ueda	京大
+Daisuke Kawahara	早大
+Sadao Kurohashi	京大	JST
+https://www.aclweb.org/anthology/2020.coling-main.114.pdf
+
+LONG
+Harnessing Cross-lingual Features to Improve Cognate Detection for Low-resource Languages
+Diptesh Kanojia	#IIT Bombay	#IITB-Monash	#モナシュ大
+Raj Dabre	NICT
+Shubham Dewangan	#IIT Bombay
+Pushpak Bhattacharyya	#IIT Bombay
+Gholamreza Haffari	#モナシュ大
+Malhar Kulkarni	#IIT Bombay
+https://www.aclweb.org/anthology/2020.coling-main.119.pdf
+
+SHORT
+Autoencoding Improves Pre-trained Word Embeddings
+Masahiro Kaneko	都立大
+Danushka Bollegala	#リヴァプール大	#Amazon
+https://www.aclweb.org/anthology/2020.coling-main.149.pdf
+
+SHORT
+Combining Event Semantics and Degree Semantics for Natural Language Inference
+Izumi Haruta	お茶大
+Koji Mineshima	慶応大
+Daisuke Bekki	お茶大
+https://www.aclweb.org/anthology/2020.coling-main.156.pdf
+
+SHORT
+Modeling Event Salience in Narratives via Barthes’ Cardinal Functions
+Takaki Otake	東北大
+Sho Yokoi	東北大	理研
+Naoya Inoue	東北大	理研
+Ryo Takahashi	東北大	理研
+Tatsuki Kuribayashi	東北大	Langsmith
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.coling-main.160.pdf
+
+SHORT
+Offensive Language Detection on Video Live Streaming Chat
+Zhiwei Gao	NAIST
+Shuntaro Yada	NAIST
+Shoko Wakamiay	NAIST
+Eiji Aramaki	NAIST
+https://www.aclweb.org/anthology/2020.coling-main.175.pdf
+
+LONG
+Image Caption Generation for News Articles
+Zhishen Yang	東工大
+Naoaki Okazaki	東工大
+https://www.aclweb.org/anthology/2020.coling-main.176.pdf
+
+LONG
+Taking the Correction Difficulty into Account in Grammatical Error Correction Evaluation
+Takumi Gotou	甲南大
+Ryo Nagata	甲南大	理研
+Masato Mita	理研	東北大
+Kazuaki Hanawa	理研	東北大
+https://www.aclweb.org/anthology/2020.coling-main.188.pdf
+
+SHORT
+Neural text normalization leveraging similarities of strings and sounds
+Riku Kawamura	東工大
+Tatsuya Aoki	東工大
+Hidetaka Kamigaito	東工大
+Hiroya Takamura	東工大	産総研
+Manabu Okumura	東工大
+https://www.aclweb.org/anthology/2020.coling-main.192.pdf
+
+SHORT
+Generating Diverse Corrections with Local Beam Search for Grammatical Error Correction
+Kengo Hotate	都立大
+Masahiro Kaneko	都立大
+Mamoru Komachi	都立大
+https://www.aclweb.org/anthology/2020.coling-main.193.pdf
+
+SHORT
+A Neural Local Coherence Analysis Model for Clarity Text Scoring
+Panitan Muangkammuen	山梨大
+Sheng Xu	山梨大	#杭州電子科技大
+Fumiyo Fukumoto	山梨大
+Kanda Runapongsa Saikaew	#コンケン大
+Jiyi Li	山梨大
+https://www.aclweb.org/anthology/2020.coling-main.194.pdf
+
+LONG
+Learning with Contrastive Examples for Data-to-Text Generation
+Yui Uehara	産総研
+Tatsuya Ishigaki	産総研
+Kasumi Aoki	お茶大
+Keiichi Goshima	産総研	早大
+Hiroshi Noji	産総研
+Ichiro Kobayashi	産総研	お茶大
+Hiroya Takamura	産総研	東工大
+Yusuke Miyao	産総研
+https://www.aclweb.org/anthology/2020.coling-main.213.pdf
+
+SHORT
+Improving Spoken Language Understanding by Wisdom of Crowds
+Koichiro Yoshino	理研	NAIST	理研
+Kana Ikeuchi	NAIST
+Katsuhito Sudoh	NAIST	理研
+Satoshi Nakamura	NAIST	理研
+https://www.aclweb.org/anthology/2020.coling-main.234.pdf
+
+SHORT
+Robust Machine Reading Comprehension by Learning Soft labels
+Zhenyu Zhao	#ハルビン工業大
+Shuangzhi Wu	#Tencent
+Muyun Yang	#ハルビン工業大
+Kehai Chen	NICT
+Tiejun Zhao	#ハルビン工業大
+https://www.aclweb.org/anthology/2020.coling-main.248.pdf
+
+SHORT
+Coordination Boundary Identification without Labeled Data for Compound Terms Disambiguation
+Yuya Sawada	NAIST
+Takashi Wada	#メルボルン大
+Takayoshi Shibahara	NAIST
+Hiroki Teranishi	NAIST
+Shuhei Kondo	NAIST
+Hiroyuki Shindo	NAIST
+Taro Watanabe	NAIST
+Yuji Matsumoto	理研
+https://www.aclweb.org/anthology/2020.coling-main.271.pdf
+
+LONG
+Dual Attention Model for Citation Recommendation
+Yang Zhang	京大
+Qiang Ma	京大
+https://www.aclweb.org/anthology/2020.coling-main.283.pdf
+
+LONG
+Homonym normalisation by word sense clustering: a case in Japanese
+Yo Sato	#Satoama Language Services
+Kevin Heffernan	関西学院大
+https://www.aclweb.org/anthology/2020.coling-main.295.pdf
+
+SHORT
+Incorporating Noisy Length Constraints into Transformer with Length-aware Positional Encodings
+Yui Oka	NAIST
+Katsuki Chousa	NAIST
+Katsuhito Sudoh	NAIST
+Satoshi Nakamura	NAIST
+https://www.aclweb.org/anthology/2020.coling-main.319.pdf
+
+LONG
+How LSTM Encodes Syntax: Exploring Context Vectors and Semi-Quantization on Natural Text
+Chihiro Shibata	豊田工大
+Kei Uchiumi	デンソーアイティーラボラトリ
+Daichi Mochihashi	統数研
+https://www.aclweb.org/anthology/2020.coling-main.356.pdf
+
+LONG
+Topic-relevant Response Generation using Optimal Transport for an Open-domain Dialog System
+Shuying Zhang	京大
+Tianyu Zhao	京大
+Tatsuya Kawahara	京大
+https://www.aclweb.org/anthology/2020.coling-main.359.pdf
+
+SHORT
+Diverse dialogue generation with context dependent dynamic loss function
+Ayaka Ueyama	静岡大
+Yoshinobu Kano	静岡大
+https://www.aclweb.org/anthology/2020.coling-main.364.pdf
+
+LONG
+Deconstruct to Reconstruct a Configurable Evaluation Metric for Open-Domain Dialogue Systems
+Vitou Phy	東大
+Yang Zhao	IBM
+Akiko Aizawa	NII	東大
+https://www.aclweb.org/anthology/2020.coling-main.368.pdf
+
+LONG
+Robust Unsupervised Neural Machine Translation with Adversarial Denoising Training
+Haipeng Sun	#ハルビン工業大
+Rui Wang	NICT
+Kehai Chen	NICT
+Xugang Lu	NICT
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+Tiejun Zhao	#ハルビン工業大
+https://www.aclweb.org/anthology/2020.coling-main.374.pdf
+
+LONG
+Improving Low-Resource NMT through Relevance Based Linguistic Features Incorporation
+Abhisek Chakrabarty	NICT
+Raj Dabre	NICT
+Chenchen Ding	NICT
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+https://www.aclweb.org/anthology/2020.coling-main.376.pdf
+
+LONG
+Bilingual Subword Segmentation for Neural Machine Translation
+Hiroyuki Deguchi	愛媛大
+Masao Utiyama	NICT
+Akihiro Tamura	同志社大
+Takashi Ninomiya	愛媛大
+Eiichiro Sumita	NICT
+https://www.aclweb.org/anthology/2020.coling-main.378.pdf
+
+LONG
+Supervised Visual Attention for Multimodal Neural Machine Translation
+Tetsuro Nishihara	愛媛大
+Akihiro Tamura	同志社大
+Takashi Ninomiya	愛媛大
+Yutaro Omote	愛媛大
+Hideki Nakayama	東大
+https://www.aclweb.org/anthology/2020.coling-main.380.pdf
+
+SHORT
+Intermediate Self-supervised Learning for Machine Translation Quality Estimation
+Raphael Rubino	NICT
+Eiichiro Sumita	NICT
+https://www.aclweb.org/anthology/2020.coling-main.385.pdf
+
+LONG
+Effective Use of Target-side Context for Neural Machine Translation
+Hideya Mino	NHK技研	東工大
+Hitoshi Ito	NHK技研
+Isao Goto	NHK技研
+Ichiro Yamada	NHK技研
+Takenobu Tokunaga	東工大
+https://www.aclweb.org/anthology/2020.coling-main.396.pdf
+
+LONG
+Cross-lingual Transfer Learning for Grammatical Error Correction
+Ikumi Yamashita	都立大
+Satoru Katsumata	都立大
+Masahiro Kaneko	都立大
+Aizhan Imankulova	都立大
+Mamoru Komachi	都立大
+https://www.aclweb.org/anthology/2020.coling-main.415.pdf
+
+LONG
+SpanAlign: Sentence Alignment Method based on Cross-Language Span Prediction and ILP
+Katsuki Chousa	NTT
+Masaaki Nagata	NTT
+Masaaki Nishino	NTT
+https://www.aclweb.org/anthology/2020.coling-main.418.pdf
+
+LONG
+Hierarchical Trivia Fact Extraction from Wikipedia Articles
+Jingun Kwon	東工大
+Hidetaka Kamigaito	東工大
+Young-In Song	#Naver
+Manabu Okumura	東工大
+https://www.aclweb.org/anthology/2020.coling-main.424.pdf
+
+LONG
+An Empirical Study of Contextual Data Augmentation for Japanese Zero Anaphora Resolution
+Ryuto Konno	東北大
+Yuichiroh Matsubayashi	東北大	理研
+Shun Kiyono	理研	東北大
+Hiroki Ouchi	理研
+Ryo Takahashi	東北大	理研
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.coling-main.435.pdf
+
+LONG
+A Large-Scale Corpus of E-mail Conversations with Standard and Two-Level Dialogue Act Annotations
+Motoki Taniguchi	富士ゼロックス	都立大
+Yoshihiro Ueda	富士ゼロックス
+Tomoki Taniguchi	富士ゼロックス
+Tomoko Ohkuma	富士ゼロックス
+https://www.aclweb.org/anthology/2020.coling-main.436.pdf
+
+LONG
+Sentiment Analysis for Emotional Speech Synthesis in a News Dialogue System
+Hiroaki Takatsu	早大
+Ryota Ando	内外切抜通信社
+Yoichi Matsuyama	早大
+Tetsunori Kobayashi	早大
+https://www.aclweb.org/anthology/2020.coling-main.440.pdf
+
+LONG
+Diverse and Non-redundant Answer Set Extraction on Community QA based on DPPs
+Shogo Fujita	東工大
+Tomohide Shibata	Yahoo!
+Manabu Okumura	東工大
+https://www.aclweb.org/anthology/2020.coling-main.464.pdf
+
+LONG
+An empirical analysis of existing systems and datasets toward general simple question answering
+Namgi Han	産総研	総研大	NII
+Goran Topic	産総研
+Hiroshi Noji	産総研
+Hiroya Takamura	産総研	東工大
+Yusuke Miyao	産総研	東大
+https://www.aclweb.org/anthology/2020.coling-main.465.pdf
+
+SHORT
+Exploiting Narrative Context and A Priori Knowledge of Categories in Textual Emotion Classification
+Hikari Tanabe	早大
+Tetsuji Ogawa	早大
+Tetsunori Kobayashi	早大
+Yoshihiko Hayashi	早大
+https://www.aclweb.org/anthology/2020.coling-main.483.pdf
+
+LONG
+A Neural Model for Aggregating Coreference Annotation in Crowdsourcing
+Maolin Li	#マンチェスター大	産総研
+Hiroya Takamura	産総研	東工大
+Sophia Ananiadou	#マンチェスター大	産総研	#Alan Turing Institute
+https://www.aclweb.org/anthology/2020.coling-main.507.pdf
+
+LONG
+Native-like Expression Identification by Contrasting Native and Proficient Second Language Speakers
+Oleksandr Harust	京大
+Yugo Murawaki	京大
+Sadao Kurohashi	京大
+https://www.aclweb.org/anthology/2020.coling-main.514.pdf
+
+LONG
+PheMT: A Phenomenon-wise Dataset for Machine Translation Robustness on User-Generated Contents
+Ryo Fujii	東北大
+Masato Mita	理研	東北大
+Kaori Abe	東北大
+Kazuaki Hanawa	理研	東北大
+Makoto Morishita	NTT	東北大
+Jun Suzuki	東北大	理研
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2020.coling-main.521.pdf
+
+LONG
+Neural Automated Essay Scoring Incorporating Handcrafted Features
+Masaki Uto	電通大
+Yikuan Xie	電通大
+Maomi Ueno	電通大
+https://www.aclweb.org/anthology/2020.coling-main.535.pdf
+
+LONG
+Multilingual Epidemiological Text Classification: A Comparative Study
+Stephen Mutuvi	#マルチメディア大
+Emanuela Boros	#ラロシェル大
+Antoine Doucet	#ラロシェル大
+Adam Jatowt	京大
+Gaël Lejeune	#ソルボンヌ大
+Moses Odeo	#マルチメディア大
+https://www.aclweb.org/anthology/2020.coling-main.543.pdf
+
+SHORT
+SOME: Reference-less Sub-Metrics Optimized for Manual Evaluations of Grammatical Error Correction
+Ryoma Yoshimura	都立大
+Masahiro Kaneko	都立大
+Tomoyuki Kajiwara	阪大	都立大
+Mamoru Komachi	都立大
+https://www.aclweb.org/anthology/2020.coling-main.573.pdf
+
+LONG
+Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps
+Xanh Ho	総研大	NII
+Anh-Khoa Duong Nguyen	産総研
+Saku Sugawara	NII
+Akiko Aizawa	総研大	NII
+https://www.aclweb.org/anthology/2020.coling-main.580.pdf
+
+LONG
+CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters
+Hicham El Boukkouri	#パリサクレー大
+Olivier Ferret	#パリサクレー大
+Thomas Lavergne	#パリサクレー大
+Hiroshi Noji	産総研
+Pierre Zweigenbaum	#パリサクレー大
+Jun’ichi Tsuji	産総研
+https://www.aclweb.org/anthology/2020.coling-main.609.pdf
+
+DEMO
+Epistolary Education in 21st Century: A System to Support Composition of E-mails by Students to Superiors in Japanese
+Kenji Ryu	北見工業大
+Michal Ptaszynski	北見工業大
+Fumito Masui	北見工業大
+https://www.aclweb.org/anthology/2020.coling-demos.16.pdf
