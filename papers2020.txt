@@ -708,7 +708,7 @@ https://www.aclweb.org/anthology/2020.coling-main.319.pdf
 
 LONG
 How LSTM Encodes Syntax: Exploring Context Vectors and Semi-Quantization on Natural Text
-Chihiro Shibata	豊田工大
+Chihiro Shibata	東工大
 Kei Uchiumi	デンソーアイティーラボラトリ
 Daichi Mochihashi	統数研
 https://www.aclweb.org/anthology/2020.coling-main.356.pdf
