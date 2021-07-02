@@ -442,6 +442,16 @@ Hideki Nakayama	東大
 https://www.aclweb.org/anthology/2020.emnlp-main.267.pdf
 
 LONG
+Structural Supervision Improves Few-Shot Learning and Syntactic Generalization in Neural Language Models
+Ethan Wilcox	#ハーバード
+Peng Qian	#MIT
+Richard Futrell	#UC Irvine
+Ryosuke Kohita	IBM
+Roger Levy	#MIT
+Miguel Ballesteros	#Amazon
+https://aclanthology.org/2020.emnlp-main.375/
+
+LONG
 DAGA: Data Augmentation with a Generation Approach forLow-resource Tagging Tasks
 Bosheng Ding	#南洋理工大	#Alibaba
 Linlin Liu	#南洋理工大	#Alibaba
