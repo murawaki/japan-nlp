@@ -1,0 +1,814 @@
+# TACL
+
+LONG
+Unsupervised Abstractive Opinion Summarization by Generating Sentences with Tree-Structured Topic Guidance
+Masaru Isonuma	東大
+Junichiro Mori	東大	理研
+Danushka Bollegala	#リバプール大
+Ichiro Sakata	東大
+https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00406/107204/Unsupervised-Abstractive-Opinion-Summarization-by
+
+LONG
+Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs
+Emanuele Bugliarello	#コペンハーゲン大
+Ryan Cotterell	#ケンブリッジ大	#ETHチューリッヒ
+Naoaki Okazaki	東工大
+Desmond Elliott	#コペンハーゲン大
+https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00408/107279/Multimodal-Pretraining-Unmasked-A-Meta-Analysis
+
+LONG
+Maintaining Common Ground in Dynamic Environments
+Takuma Udagawa	東大
+Akiko Aizawa	東大	NII
+https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00409/107278/Maintaining-Common-Ground-in-Dynamic-Environments
+
+
+# EACL
+
+SHORT
+On the (In)Effectiveness of Images for Text Classification
+Chunpeng Ma	富士通研
+Aili Shen	#メルボルン大
+Hiyori Yoshikawa	富士通研
+Tomoya Iwakura	富士通研
+Daniel Beck	#メルボルン大
+Timothy Baldwin	#メルボルン大
+https://www.aclweb.org/anthology/2021.eacl-main.4/
+
+LONG
+Dictionary-based Debiasing of Pre-trained Word Embeddings
+Masahiro Kaneko	都立大
+Danushka Bollegala	#リバプール大	#Amazon
+https://www.aclweb.org/anthology/2021.eacl-main.16/
+
+LONG
+Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning
+Alon Jacovi	#Bar Ilan
+Gang Niu	理研
+Yoav Goldberg	#Bar Ilan	#Allen-Israel
+Masashi Sugiyama	理研	東大
+https://www.aclweb.org/anthology/2021.eacl-main.47/
+
+LONG
+Dialogue Act-based Breakdown Detection in Negotiation Dialogues
+Atsuki Yamaguchi	日立
+Kosui Iwasa	農工大
+Katsuhide Fujita	農工大
+https://www.aclweb.org/anthology/2021.eacl-main.63/
+
+LONG
+Exploring Transitivity in Neural NLI Models through Veridicality
+Hitomi Yanaka	理研
+Koji Mineshima	慶応大
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2021.eacl-main.78/
+
+LONG
+Debiasing Pre-trained Contextualised Embeddings
+Masahiro Kaneko	都立大
+Danushka Bollegala	#リバプール大	#Amazon
+https://www.aclweb.org/anthology/2021.eacl-main.107/
+
+SHORT
+Quantifying Appropriateness of Summarization Data for Curriculum Learning
+Ryuji Kano	富士ゼロックス	東工大
+Takumi Takahashi	富士ゼロックス
+Toru Nishino	富士ゼロックス
+Motoki Taniguchi	富士ゼロックス
+Tomoki Taniguchi	富士ゼロックス
+Tomoko Ohkuma	富士ゼロックス
+https://www.aclweb.org/anthology/2021.eacl-main.119/
+
+LONG
+Generating Weather Comments from Meteorological Simulations
+Soichiro Murakami	東工大
+Sora Tanaka	東工大
+Masatsugu Hangyo	ウェザーニューズ
+Hidetaka Kamigaito	東工大
+Kotaro Funakoshi	東工大
+Hiroya Takamura	東工大	産総研
+Manabu Okumura	東工大
+https://www.aclweb.org/anthology/2021.eacl-main.125/
+
+LONG
+Understanding Pre-Editing for Black-Box Neural Machine Translation
+Rei Miyata	名大
+Atsushi Fujita	NICT
+https://www.aclweb.org/anthology/2021.eacl-main.132/
+
+LONG
+RelWalk - A Latent Variable Model Approach to Knowledge Graph Embedding
+Danushka Bollegala	#リバプール大	#Amazon
+Huda Hakami	#ターイフ大
+Yuichi Yoshida	NII
+Ken-ichi Kawarabayashi	NII
+https://www.aclweb.org/anthology/2021.eacl-main.133/
+
+LONG
+Benchmarking Machine Reading Comprehension: A Psychological Perspective
+Saku Sugawara	NII
+Pontus Stenetorp	#UCL
+Akiko Aizawa	NII
+https://www.aclweb.org/anthology/2021.eacl-main.137/
+
+LONG
+Language Models as Knowledge Bases: On Entity Representations, Storage Capacity, and Paraphrased Queries
+Benjamin Heinzerling	理研	東北大
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2021.eacl-main.153/
+
+LONG
+Attention-based Relational Graph Convolutional Network for Target-Oriented Opinion Words Extraction
+Junfeng Jiang	東大
+An Wang	東工大
+Akiko Aizawa	NII
+https://www.aclweb.org/anthology/2021.eacl-main.170/
+
+SHORT
+Context-aware Neural Machine Translation with Mini-batch Embedding
+Makoto Morishita	NTT	東北大
+Jun Suzuki	東北大
+Tomoharu Iwata	NTT
+Masaaki Nagata	NTT
+https://www.aclweb.org/anthology/2021.eacl-main.214/
+
+SHORT
+Project-then-Transfer: Effective Two-stage Cross-lingual Transfer for Semantic Dependency Parsing
+Hiroaki Ozaki	日立
+Gaku Morio	日立
+Terufumi Morishita	日立
+Toshinori Miyoshi	日立
+https://www.aclweb.org/anthology/2021.eacl-main.221/
+
+SHORT
+Extractive Summarization Considering Discourse and Coreference Relations based on Heterogeneous Graph
+Yin Jou Huang	京大
+Sadao Kurohashi	京大
+https://www.aclweb.org/anthology/2021.eacl-main.265/
+
+LONG
+Metric-Type Identification for Multi-Level Header Numerical Tables in Scientific Papers
+Lya Hulliyyatus Suadaa	東工大
+Hidetaka Kamigaito	東工大
+Manabu Okumura	東工大
+Hiroya Takamura	東工大	産総研
+https://www.aclweb.org/anthology/2021.eacl-main.267/
+
+LONG
+Cognition-aware Cognate Detection
+Diptesh Kanojia	#IIT Bomday	#IITB-Monash Research Academy	#モナシュ大
+Prashant Sharma	日立
+Sayali Ghodekar	#RingCentral
+Pushpak Bhattacharyya	#IIT Bombay
+Gholamreza Haffari	#モナシュ大
+Malhar Kulkarni	#IIT Bombay
+https://www.aclweb.org/anthology/2021.eacl-main.288/
+
+LONG
+One-class Text Classification with Multi-modal Deep Support Vector Data Description
+Chenlong Hu	東工大
+Yukun Feng	東工大
+Hidetaka Kamigaito	東工大
+Hiroya Takamura	東工大	産総研
+Manabu Okumura	東工大
+https://www.aclweb.org/anthology/2021.eacl-main.296/
+
+LONG
+Communicative-Function-Based Sentence Classification for Construction of an Academic Formulaic Expression Database
+Kenichi Iwatsuki	東大
+Akiko Aizawa	NII	東大
+https://www.aclweb.org/anthology/2021.eacl-main.304/
+
+LONG
+Two Training Strategies for Improving Relation Extraction over Universal Graph
+Qin Dai	東北大
+Naoya Inoue	#ストーニーブルック大
+Ryo Takahashi	東北大	理研
+Kentaro Inui	東北大	理研
+https://www.aclweb.org/anthology/2021.eacl-main.321/
+
+LONG
+Removing Word-Level Spurious Alignment between Images and Pseudo-Captions in Unsupervised Image Captioning
+Ukyo Honda	NAIST	理研
+Yoshitaka Ushiku	オムロン サイニックエックス
+Atsushi Hashimoto	オムロン サイニックエックス
+Taro Watanabe	NAIST
+Yuji Matsumoto	理研
+https://www.aclweb.org/anthology/2021.eacl-main.323/
+
+DEMO
+CovRelex: A COVID-19 Retrieval System with Relation Extraction
+Vu Tran	JAIST
+Van-Hien Tran	NAIST
+Phuong Nguyen	JAIST
+Chau Nguyen	JAIST
+Ken Satoh	NII
+Yuji Matsumoto	理研
+Minh Nguyen	JAIST
+https://www.aclweb.org/anthology/2021.eacl-demos.4/
+
+DEMO
+A New Surprise Measure for Extracting Interesting Relationships between Persons
+Hidetaka Kamigaito	東工大
+Jingun Kwon	東工大
+Young-In Song	#Naver
+Manabu Okumura	東工大
+https://www.aclweb.org/anthology/2021.eacl-demos.27/
+
+STUDENT
+Computationally Efficient Wasserstein Loss for Structured Labels
+Ayato Toyokuni	京大	理研
+Sho Yokoi	東北大	理研
+Hisashi Kashima	京大	理研
+Makoto Yamada	京大	理研
+https://www.aclweb.org/anthology/2021.eacl-srw.1/
+
+STUDENT
+Making Use of Latent Space in Language GANs for Generating Diverse Text without Pre-training
+Takeshi Kojima	東大
+Yusuke Iwasawa	東大
+Yutaka Matsuo	東大
+https://www.aclweb.org/anthology/2021.eacl-srw.23/
+
+
+# NAACL
+
+LONG
+Distantly Supervised Relation Extraction with Sentence Reconstruction and Knowledge Base Priors
+Fenia Christopoulou	#マンチェスター大
+Makoto Miwa	豊田工大	産総研
+Sophia Ananiadou	#マンチェスター大
+https://aclanthology.org/2021.naacl-main.2/
+
+LONG
+Posterior Differential Regularization with f-divergence for Improving Model Robustness
+Hao Cheng	#Microsoft Research
+Xiaodong Liu	#Microsoft Research
+Lis Pereira	お茶大
+Yaoliang Yu	#ウォータールー大	#Vector Institute
+Jianfeng Gao	#Microsoft Research
+https://aclanthology.org/2021.naacl-main.85/
+
+LONG
+Improving Neural RST Parsing Model with Silver Agreement Subtrees
+Naoki Kobayashi	東工大
+Tsutomu Hirao	NTT
+Hidetaka Kamigaito	東工大
+Manabu Okumura	東工大
+Masaaki Nagata	NTT
+https://aclanthology.org/2021.naacl-main.127/
+
+LONG
+End-to-end ASR to jointly predict transcriptions and linguistic annotations
+Motoi Omachi	Yahoo
+Yuya Fujita	Yahoo
+Shinji Watanabe	#John Hopkins大
+Matthew Wiesner	#John Hopkins大
+https://aclanthology.org/2021.naacl-main.149/
+
+SHORT
+Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation
+Hirofumi Inaguma	京大
+Tatsuya Kawahara	京大
+Shinji Watanabe	#John Hopkins大
+https://aclanthology.org/2021.naacl-main.151/
+
+LONG
+WRIME: A New Dataset for Emotional Intensity Estimation with Subjective and Objective Annotations
+Tomoyuki Kajiwara	愛媛大
+Chenhui Chu	京大
+Noriko Takemura	阪大
+Yuta Nakashima	阪大
+Hajime Nagahara	阪大
+https://aclanthology.org/2021.naacl-main.169/
+
+LONG
+From Masked Language Modeling to Translation: Non-English Auxiliary Tasks Improve Zero-shot Spoken Language Understanding
+Rob van der Goot	#ITU
+Ibrahim Sharaf	#Factmata
+Aizhan Imankulova	都立大
+Ahmet Üstün	#フローニンゲン大
+Marija Stepanović	#ITU
+Alan Ramponi	#トレント大	#COSBI
+Siti Oryza Khairunnisa	都立大
+Mamoru Komachi	都立大
+Barbara Plank	#ITU
+https://aclanthology.org/2021.naacl-main.197/
+
+LONG
+TABBIE: Pretrained Representations of Tabular Data
+Hiroshi Iida	Sony
+Dung Thai	#UMass Amherst
+Varun Manjunatha	#Adobe
+Mohit Iyyer	#Umass Amherst
+https://aclanthology.org/2021.naacl-main.270/
+
+SHORT
+Learning to Learn to be Right for the Right Reasons
+Pride Kavumba	東北大	理研
+Benjamin Heinzerling	理研	東北大
+Ana Brassard	理研	東北大
+Kentaro Inui	東北大	理研
+https://aclanthology.org/2021.naacl-main.304/
+
+SHORT
+Self-Training for Unsupervised Neural Machine Translation in Unbalanced Training Data Scenarios
+Haipeng Sun	#ハルピン工業大	#JD
+Rui Wang	#上海交通大
+Kehai Chen	NICT
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+Tiejun Zhao	#ハルピン工業大
+https://aclanthology.org/2021.naacl-main.311/
+
+SHORT
+Targeted Adversarial Training for Natural Language Understanding
+Lis Pereira	お茶大
+Xiaodong Liu	#Microsoft Research
+Hao Cheng	#Microsoft Research
+Hoifung Poon	#Microsoft Research
+Jianfeng Gao	#Microsoft Research
+Ichiro Kobayashi	お茶大
+https://aclanthology.org/2021.naacl-main.424/
+
+SHORT
+Frustratingly Easy Edit-based Linguistic Steganography with a Masked Language Model
+Honai Ueoka	京大
+Yugo Murawaki	京大
+Sadao Kurohashi	京大
+https://aclanthology.org/2021.naacl-main.433/
+
+LONG
+User-Generated Text Corpus for Evaluating Japanese Morphological Analysis and Lexical Normalization
+Shohei Higashiyama	NICT	NAIST
+Masao Utiyama	NICT
+Taro Watanabe	NAIST
+Eiichiro Sumita	NICT
+https://aclanthology.org/2021.naacl-main.438/
+
+SHORT
+Contextualized and Generalized Sentence Representations by Contrastive Self-Supervised Learning: A Case Study on Discourse Relation Analysis
+Hirokazu Kiyomaru	京大
+Sadao Kurohashi	京大
+https://aclanthology.org/2021.naacl-main.442/
+
+LONG
+Rethinking Perturbations in Encoder-Decoders for Fast Training
+Sho Takase	東工大
+Shun Kiyono	理研	東北大
+https://aclanthology.org/2021.naacl-main.460/
+
+LONG
+Context-aware Decoder for Neural Machine Translation using a Target-side Document-Level Language Model
+Amane Sugiyama	東大
+Naoki Yoshinaga	東大
+https://aclanthology.org/2021.naacl-main.461/
+
+SHORT
+Machine Translated Text Detection Through Text Similarity with Round-Trip Translation
+Hoang-Quoc Nguyen-Son	KDDI総合研究所
+Tran Phuong Thao	東大
+Seira Hidano	KDDI総合研究所
+Ishita Gupta	#IIT
+Shinsaku Kiyomoto	KDDI総合研究所
+https://aclanthology.org/2021.naacl-main.462/
+
+STUDENT
+Multi-Task Learning of Generation and Classification for Emotion-Aware Dialogue Response Generation
+Tatsuya Ide	早大
+Daisuke Kawahara	早大
+https://aclanthology.org/2021.naacl-srw.15/
+
+STUDENT
+Comparison of Grammatical Error Correction Using Back-Translation Models
+Aomi Koyama	都立大
+Kengo Hotate	都立大
+Masahiro Kaneko	都立大
+Mamoru Komachi	都立大
+https://aclanthology.org/2021.naacl-srw.16/
+
+STUDENT
+Sentence Concatenation Approach to Data Augmentation for Neural Machine Translation
+Seiichiro Kondo	都立大
+Kengo Hotate	都立大
+Tosho Hirasawa	都立大
+Masahiro Kaneko	都立大
+Mamoru Komachi	都立大
+https://aclanthology.org/2021.naacl-srw.18/
+
+STUDENT
+Hie-BART: Document Summarization with Hierarchical BART
+Kazuki Akiyama	愛媛大
+Akihiro Tamura	同志社大
+Takashi Ninomiya	愛媛大
+https://aclanthology.org/2021.naacl-srw.20/
+
+DEMO
+An Empirical Study of Generating Texts for Search Engine Advertising
+Hidetaka Kamigaito	東工大
+Peinan Zhang	サイバーエージェント
+Hiroya Takamura	産総研
+Manabu Okumura	東工大
+https://aclanthology.org/2021.naacl-industry.32/
+
+
+# ACL-IJCNLP
+
+LONG
+Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking
+Jinyu Guo	#北京郵電大
+Kai Shuang	#北京郵電大
+Jijie Li	#北京郵電大
+Zihan Wang	東大
+https://aclanthology.org/2021.acl-long.12/
+
+LONG
+Multi-TimeLine Summarization (MTLS): Improving Timeline Summarization by Generating Multiple Summaries
+Yi Yu	京大
+Adam Jatowt	#インスブルック大
+Antoine Doucet	#ラロシェル大
+Kazunari Sugiyama	京大
+Masatoshi Yoshikawa	京大
+https://aclanthology.org/2021.acl-long.32/
+
+LONG
+What Ingredients Make for an Effective Crowdsourcing Protocol for Difficult NLU Data Collection Tasks?
+Nikita Nangia	#ニューヨーク大
+Saku Sugawara	NII
+Harsh Trivedi	#Stony Brook大
+Alex Warstadt	#ニューヨーク大
+Clara Vania	#Amazon
+Samuel R. Bowman	#ニューヨーク大
+https://aclanthology.org/2021.acl-long.98/
+
+LONG
+Towards Table-to-Text Generation with Numerical Reasoning
+Lya Hulliyyatus Suadaa	東工大
+Hidetaka Kamigaito	東工大
+Kotaro Funakoshi	東工大
+Manabu Okumura	東工大
+Hiroya Takamura	東工大	産総研
+https://aclanthology.org/2021.acl-long.115/
+
+LONG
+BERTAC: Enhancing Transformer-based Language Models with Adversarially Pretrained Convolutional Neural Networks
+Jong-Hoon Oh	NICT
+Ryu Iida	NICT	NAIST
+Julien Kloetzer	NICT
+Kentaro Torisawa	NICT	NAIST
+https://aclanthology.org/2021.acl-long.164/
+
+LONG
+Evaluating Evaluation Measures for Ordinal Classification and Ordinal Quantification
+Tetsuya Sakai	早大
+https://aclanthology.org/2021.acl-long.214/
+
+LONG
+Lightweight Cross-Lingual Sentence Representation Learning
+Zhuoyuan Mao	京大
+Prakhar Gupta	#EPFL
+Chenhui Chu	京大
+Martin Jaggi	#EPFL
+Sadao Kurohashi	京大
+https://aclanthology.org/2021.acl-long.226/
+
+LONG
+Nested Named Entity Recognition via Explicitly Excluding the Influence of the Best Path
+Yiran Wang	NICT
+Hiroyuki Shindo	NAIST
+Yuji Matsumoto	理研
+Taro Watanabe	NAIST
+https://aclanthology.org/2021.acl-long.275/
+
+LONG
+Lower Perplexity is Not Always Human-Like
+Tatsuki Kuribayashi	東北大	Langsmith
+Yohei Oseki	東大	理研
+Takumi Ito	東北大	Langsmith
+Ryo Yoshida	東大
+Masayuki Asahara	国語研
+Kentaro Inui	東北大	理研
+https://aclanthology.org/2021.acl-long.405/
+
+LONG
+CTFN: Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network
+Jiajia Tang	#杭州大
+Kang Li	#杭州大
+Xuanyu Jin	#杭州大
+Andrzej Cichocki	#Skoltech	#PAN
+Qibin Zhao	理研
+Wanzeng Kong	#杭州大
+https://aclanthology.org/2021.acl-long.412/
+
+LONG
+Unified Interpretation of Softmax Cross-Entropy and Negative Sampling: With Case Study for Knowledge Graph Embedding
+Hidetaka Kamigaito	東工大
+Katsuhiko Hayashi	群馬大	理研
+https://aclanthology.org/2021.acl-long.429/
+
+LONG
+Scientific Credibility of Machine Translation Research: A Meta-Evaluation of 769 Papers
+Benjamin Marie	NICT
+Atsushi Fujita	NICT
+Raphael Rubino	NICT
+https://aclanthology.org/2021.acl-long.566/
+
+SHORT
+DefSent: Sentence Embeddings using Definition Sentences
+Hayato Tsukagoshi	名大
+Ryohei Sasano	名大
+Koichi Takeda	名大
+https://aclanthology.org/2021.acl-short.52/
+
+SHORT
+Semantic Frame Induction using Masked Word Embeddings and Two-Step Clustering
+Kosuke Yamada	名大
+Ryohei Sasano	名大	理研
+Koichi Takeda	名大
+https://aclanthology.org/2021.acl-short.102/
+
+SHORT
+Distinct Label Representations for Few-Shot Text Classification
+Sora Ohashi	阪大
+Junya Takayama	阪大
+Tomoyuki Kajiwara	愛媛大
+Yuki Arase	阪大
+https://aclanthology.org/2021.acl-short.105/
+
+SHORT
+Embracing Ambiguity: Shifting the Training Target of NLI Models
+Johannes Mario Meissner	東大
+Napat Thumwanit	東大
+Saku Sugawara	NII
+Akiko Aizawa	東大	NII
+https://aclanthology.org/2021.acl-short.109/
+
+SHORT
+Efficient Passage Retrieval with Hashing for Open-domain Question Answering
+Ikuya Yamada	Studio Ousia	理研
+Akari Asai	#ワシントン大
+Hannaneh Hajishirzi	#ワシントン大	#Allen Institute for AI
+https://aclanthology.org/2021.acl-short.123/
+
+DEMO
+LOA: Logical Optimal Actions for Text-based Interaction Games
+Daiki Kimura	IBM
+Subhajit Chaudhury	IBM
+Masaki Ono	IBM
+Michiaki Tatsubori	IBM
+Don Joven Agravante	#IBM
+Asim Munawar	#IBM
+Akifumi Wachi	#IBM
+Ryosuke Kohita	#IBM
+Alexander Gray	#IBM
+https://aclanthology.org/2021.acl-demo.27/
+
+STUDENT
+On the Relationship between Zipf's Law of Abbreviation and Interfering Noise in Emergent Languages
+Ryo Ueda	東大
+Koki Washio	東大
+https://aclanthology.org/2021.acl-srw.6/
+
+STUDENT
+Attending Self-Attention: A Case Study of Visually Grounded Supervision in Vision-and-Language Transformers
+Jules Samaran	#PSL
+Noa Garcia	阪大
+Mayu Otani	サイバーエージェント
+Chenhui Chu	京大
+Yuta Nakashima	阪大
+https://aclanthology.org/2021.acl-srw.8/
+
+STUDENT
+Video-guided Machine Translation with Spatial Hierarchical Attention Network
+Weiqi Gu	京大
+Haiyue Song	京大
+Chenhui Chu	京大
+Sadao Kurohashi	京大
+https://aclanthology.org/2021.acl-srw.9/
+
+STUDENT
+Modeling Text using the Continuous Space Topic Model with Pre-Trained Word Embeddings
+Seiichi Inoue	都立大
+Taichi Aida	都立大
+Mamoru Komachi	都立大
+Manabu Asai	創価大
+https://aclanthology.org/2021.acl-srw.15/
+
+STUDENT
+Data Augmentation with Unsupervised Machine Translation Improves the Structural Similarity of Cross-lingual Word Embeddings
+Sosuke Nishikawa	東大
+Ryokan Ri	東大
+Yoshimasa Tsuruoka	東大
+https://aclanthology.org/2021.acl-srw.17/
+
+STUDENT
+Improving the Robustness of QA Models to Challenge Sets with Variational Question-Answer Pair Generation
+Kazutoshi Shinoda	東大	NII
+Saku Sugawara	NII
+Akiko Aizawa	東大	NII
+https://aclanthology.org/2021.acl-srw.21/
+
+STUDENT
+Edit Distance Based Curriculum Learning for Paraphrase Generation
+Sora Kadotani	阪大
+Tomoyuki Kajiwara	愛媛大
+Yuki Arase	阪大
+Makoto Onizuka	阪大
+https://aclanthology.org/2021.acl-srw.24/
+
+STUDENT
+Neural Machine Translation with Synchronous Latent Phrase Structure
+Shintaro Harada	NAIST
+Taro Watanabe	NAIST
+https://aclanthology.org/2021.acl-srw.33/
+
+STUDENT
+Zero Pronouns Identification based on Span prediction
+Sei Iwata	NAIST
+Taro Watanabe	NAIST
+Masaaki Nagata	NII
+https://aclanthology.org/2021.acl-srw.34/
+
+STUDENT
+Synchronous Syntactic Attention for Transformer Neural Machine Translation
+Hiroyuki Deguchi	NAIST
+Akihiro Tamura	同志社大
+Takashi Ninomiya	愛媛大
+https://aclanthology.org/2021.acl-srw.36/
+
+# EMNLP
+
+LONG
+AfroMT: Pretraining Strategies and Reproducible Benchmarks for Translation of 8 African Languages
+Machel Reid	東大
+Junjie Hu	#CMU
+Graham Neubig	#CMU
+Yutaka Matsuo	東大
+https://aclanthology.org/2021.emnlp-main.99/
+
+SHORT
+Effect of Visual Extensions on Natural Language Understanding in Vision-and-Language Models
+Taichi Iki	NII	総研大
+Akiko Aizawa	NII	総研大
+https://aclanthology.org/2021.emnlp-main.167/
+
+LONG
+A Language Model-based Generative Classifier for Sentence-level Discourse Parsing
+Ying Zhang	東工大
+Hidetaka Kamigaito	東工大
+Manabu Okumura	東工大
+https://aclanthology.org/2021.emnlp-main.188/
+
+LONG
+Definition Modelling for Appropriate Specificity
+Han Huang	阪大
+Tomoyuki Kajiwara	愛媛大
+Yuki Arase	阪大
+https://aclanthology.org/2021.emnlp-main.194/
+
+LONG
+Low-resource Taxonomy Enrichment with Pretrained Language Models
+Kunihiro Takeoka	NEC
+Kosuke Akimoto	NEC
+Masafumi Oyamada	NEC
+https://aclanthology.org/2021.emnlp-main.217/
+
+SHORT
+Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars
+Ryo Yoshida	東大
+Hiroshi Noji	産総研
+Yohei Oseki	東大
+https://aclanthology.org/2021.emnlp-main.235/
+
+SHORT
+Frustratingly Simple Pretraining Alternatives to Masked Language Modeling
+Atsuki Yamaguchi	日立
+George Chrysostomou	#シェフィールド大
+Katerina Margatina	#シェフィールド大
+Nikolaos Aletras	#シェフィールド大
+https://aclanthology.org/2021.emnlp-main.249/
+
+LONG
+Unsupervised Neural Machine Translation with Universal Grammar
+Zuchao Li	#上海交通大	#上海交通大	#上海交通大
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+Hai Zhao	#上海交通大	#上海交通大	#上海交通大
+https://aclanthology.org/2021.emnlp-main.261/
+
+SHORT
+SHAPE: Shifted Absolute Position Embedding for Transformers
+Shun Kiyono	理研	東北大
+Sosuke Kobayashi	東北大	PFN
+Jun Suzuki	東北大	理研
+Kentaro Inui	東北大	理研
+https://aclanthology.org/2021.emnlp-main.266/
+
+SHORT
+Abstract, Rationale, Stance: A Joint Model for Scientific Claim Verification
+Zhiwei Zhang	#杭州電子大	山梨大
+Jiyi Li	山梨大
+Fumiyo Fukumoto	山梨大
+Yanming Ye	#杭州電子大
+https://aclanthology.org/2021.emnlp-main.290/
+
+LONG
+Smoothing Dialogue States for Open Conversational Machine Reading
+Zhuosheng Zhang	#上海交通大	#上海交通大	#上海交通大
+Siru Ouyang	#上海交通大	#上海交通大	#上海交通大
+Hai Zhao	#上海交通大	#上海交通大	#上海交通大
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+https://aclanthology.org/2021.emnlp-main.299/
+
+LONG
+Pseudo Zero Pronoun Resolution Improves Zero Anaphora Resolution
+Ryuto Konno	リクルート
+Shun Kiyono	理研	東北大
+Yuichiroh Matsubayashi	東北大	理研
+Hiroki Ouchi	NAIST	理研
+Kentaro Inui	東北大	理研
+https://aclanthology.org/2021.emnlp-main.308/
+
+SHORT
+Considering Nested Tree Structure in Sentence Extractive Summarization with Pre-trained Transformer
+Jingun Kwon	東工大
+Naoki Kobayashi	東工大
+Hidetaka Kamigaito	東工大
+Manabu Okumura	東工大
+https://aclanthology.org/2021.emnlp-main.330/
+
+SHORT
+Transformer-based Lexically Constrained Headline Generation
+Kosuke Yamada	名大
+Yuta Hitomi	Insight Edge
+Hideaki Tamori	朝日新聞
+Ryohei Sasano	名大
+Naoaki Okazaki	東工大
+Kentaro Inui	東北大	理研
+Koichi Takeda	名大
+https://aclanthology.org/2021.emnlp-main.335/
+
+LONG
+Incorporating Residual and Normalization Layers into Analysis of Masked Language Models
+Goro Kobayashi	東北大
+Tatsuki Kuribayashi	東北大	Langsmith
+Sho Yokoi	東北大	理研
+Kentaro Inui	東北大	理研
+https://aclanthology.org/2021.emnlp-main.373/
+
+LONG
+Summarize-then-Answer: Generating Concise Explanations for Multi-hop Reading Comprehension
+Naoya Inoue	#ストーニーブルック大	理研
+Harsh Trivedi	#ストーニーブルック大
+Steven Sinha	#ストーニーブルック大
+Niranjan Balasubramanian	#ストーニーブルック大
+Kentaro Inui	東北大	理研
+https://aclanthology.org/2021.emnlp-main.490/
+
+LONG
+I Wish I Would Have Loved This One, But I Didn’t  -- A Multilingual Dataset for Counterfactual Detection in Product Review
+James O’Neill	#リバプール大
+Polina Rozenshtein	Amazon
+Ryuichi Kiryo	Amazon
+Motoko Kubota	Amazon
+Danushka Bollegala	#Amazon	#リバプール大
+https://aclanthology.org/2021.emnlp-main.568/
+
+LONG
+Language-agnostic Representation from Multilingual Sentence Encoders for Cross-lingual Similarity Estimation
+Nattapong Tiyajamorn	東大
+Tomoyuki Kajiwara	愛媛大
+Yuki Arase	阪大
+Makoto Onizuka	阪大
+https://aclanthology.org/2021.emnlp-main.612/
+
+LONG
+Exploring Methods for Generating Feedback Comments for Writing Learning
+Kazuaki Hanawa	理研	東北大
+Ryo Nagata	甲南大	JST
+Kentaro Inui	東北大	理研
+https://aclanthology.org/2021.emnlp-main.766/
+
+SHORT
+A New Representation for Span-based CCG Parsing
+Yoshihide Kato	名大
+Shigeki Matsubara	名大
+https://aclanthology.org/2021.emnlp-main.826/
+
+DEMO
+MiSS: An Assistant for Multi-Style Simultaneous Translation
+Zuchao Li	#上海交通大	#上海交通大	#上海交通大
+Kevin Parnow	#上海交通大	#上海交通大	#上海交通大
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+Hai Zhao	#上海交通大	#上海交通大	#上海交通大
+https://aclanthology.org/2021.emnlp-demo.1/
+
+DEMO
+FAST: Fast Annotation tool for SmarT devices
+Shunyo Kawamoto	サイバーエージェント
+Yu Sawai	サイバーエージェント
+Kohei Wakimoto	サイバーエージェント
+Peinan Zhang	サイバーエージェント
+https://aclanthology.org/2021.emnlp-demo.41/
