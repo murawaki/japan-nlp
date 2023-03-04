@@ -124,7 +124,7 @@ printf <<'__DOC_HEADER__';
 <h1>日本所属の言語処理トップカンファレンス論文 (2021年)</h1>
 <div>
 <p class="text-right">MURAWAKI Yugo</p>
-<p class="text-right">Last Update: Dec 26, 2021.</p>
+<p class="text-right">Last Update: March 4, 2023.</p>
 </div>
 
 <div>

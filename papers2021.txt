@@ -6,7 +6,7 @@ Masaru Isonuma	東大
 Junichiro Mori	東大	理研
 Danushka Bollegala	#リバプール大
 Ichiro Sakata	東大
-https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00406/107204/Unsupervised-Abstractive-Opinion-Summarization-by
+https://aclanthology.org/2021.tacl-1.56/
 
 LONG
 Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs
@@ -14,13 +14,78 @@ Emanuele Bugliarello	#コペンハーゲン大
 Ryan Cotterell	#ケンブリッジ大	#ETHチューリッヒ
 Naoaki Okazaki	東工大
 Desmond Elliott	#コペンハーゲン大
-https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00408/107279/Multimodal-Pretraining-Unmasked-A-Meta-Analysis
+https://aclanthology.org/2021.tacl-1.58/
 
 LONG
 Maintaining Common Ground in Dynamic Environments
 Takuma Udagawa	東大
 Akiko Aizawa	東大	NII
-https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00409/107278/Maintaining-Common-Ground-in-Dynamic-Environments
+https://aclanthology.org/2021.tacl-1.59/
+
+LONG
+MasakhaNER: Named Entity Recognition for African Languages
+David Ifeoluwa Adelani	#ザールラント大
+Jade Abbott	#Retro Rabbit
+Graham Neubig	#CMU
+Daniel D’souza	#ProQuest
+Julia Kreutzer	#Google
+Constantine Lignos	#ブランダイス大
+Chester Palen-Michel	#ブランダイス大
+Happy Buzaaba	筑波大
+Shruti Rijhwani	#CMU
+Sebastian Ruder	#DeepMind
+Stephen Mayhew	#Duolingo
+Israel Abebe Azime	#AIMS-AMMI
+Shamsuddeen H. Muhammad	#ポルト大	#バイェロ大
+Chris Chinenye Emezue	#TU Munich
+Joyce Nakatumba-Nabende	#マケレレ大
+Perez Ogayo	#ALU
+Aremu Anuoluwapo	#ラゴス大
+Catherine Gitau	
+Derguene Mbaye	
+Jesujoba Alabi	#マックス・プランク情報学研究所
+Seid Muhie Yimam	#ハンブルク大
+Tajuddeen Rabiu Gwadabe	#中国科学院大
+Ignatius Ezeani	#ランカスター大
+Rubungo Andre Niyongabo	#電子科技大
+Jonathan Mukiibi	#マケレレ大
+Verrah Otiende	#USIU-A
+Iroro Orife	#Niger-Volta LTI
+Davis David	
+Samba Ngom	
+Tosin Adewumi	#ルレオ工科大
+Paul Rayson	#ランカスター大
+Mofetoluwa Adeyemi	
+Gerald Muriuki	#マケレレ大
+Emmanuel Anebi	
+Chiamaka Chukwuneke	#ランカスター大
+Nkiruka Odu	#AUST
+Eric Peter Wairagala	#マケレレ大
+Samuel Oyerinde	
+Clemencia Siro	
+Tobius Saul Bateesa	#マケレレ大
+Temilola Oloyede	
+Yvonne Wambui	
+Victor Akinode	
+Deborah Nabagereka	#マケレレ大
+Maurice Katusiime	#マケレレ大
+Ayodele Awokoya	#イバダン大
+Mouhamadane MBOUP	
+Dibora Gebreyohannes	
+Henok Tilaye	
+Kelechi Nwaike	
+Degaga Wolde	
+Abdoulaye Faye	
+Blessing Sibanda	#NUST
+Orevaoghene Ahia	#Instadeep
+Bonaventure F. P. Dossou	#JUB
+Kelechi Ogueji	#ウォータールー大
+Thierno Ibrahima DIOP	
+Abdoulaye Diallo	
+Adewale Akinfaderin	
+Tendai Marengereke	
+Salomey Osei	#AIMS-AMMI
+https://aclanthology.org/2021.tacl-1.66/
 
 
 # EACL
