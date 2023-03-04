@@ -121,7 +121,7 @@ my @sorted = sort { $affCount->{$b} <=> $affCount->{$a} or $a cmp $b } keys(%$af
 
 printf <<'__DOC_HEADER__';
 <div class="container-fluid">
-<h1>日本所属の言語処理トップカンファレンス論文 (2021年)</h1>
+<h1>日本所属の言語処理トップカンファレンス論文 (2022年)</h1>
 <div>
 <p class="text-right">MURAWAKI Yugo</p>
 <p class="text-right">Last Update: March 4, 2023.</p>
@@ -129,8 +129,8 @@ printf <<'__DOC_HEADER__';
 
 <div>
 <p>
-日本の組織を所属とする者が、2021年に言語処理のトップカンファレンスもしくはトップ論文誌で発表した論文一覧です (<a href="https://murawaki.org/misc/japan-nlp-2020.html">2020年版</a>、<a href="https://murawaki.org/misc/japan-nlp-2019.html">2019年版</a>、<a href="https://murawaki.org/misc/japan-nlp-2018.html">2018年版</a>、<a href="https://murawaki.org/misc/japan-nlp-2017.html">2017年版</a>、<a href="https://murawaki.org/misc/japan-nlp-2016.html">2016年版</a>) (<a href="http://phontron.com/misc/japan-nlp-2015.html">2015年版</a>、<a href="http://phontron.com/misc/japan-nlp-2014.html">2014年版</a>は Graham Neubig さん (NAIST、現 CMU) が作成)。
-対象は TACL、EACL、NAACL、ACL-IJCNLP、EMNLP です (Findings は除外)。Industry/Student/Demo 論文も含みます。
+日本の組織を所属とする者が、2022年に言語処理のトップカンファレンスもしくはトップ論文誌で発表した論文一覧です (<a href="https://murawaki.org/misc/japan-nlp-2021.html">2021年版</a>、<a href="https://murawaki.org/misc/japan-nlp-2020.html">2020年版</a>、<a href="https://murawaki.org/misc/japan-nlp-2019.html">2019年版</a>、<a href="https://murawaki.org/misc/japan-nlp-2018.html">2018年版</a>、<a href="https://murawaki.org/misc/japan-nlp-2017.html">2017年版</a>、<a href="https://murawaki.org/misc/japan-nlp-2016.html">2016年版</a>) (<a href="http://phontron.com/misc/japan-nlp-2015.html">2015年版</a>、<a href="http://phontron.com/misc/japan-nlp-2014.html">2014年版</a>は Graham Neubig さん (NAIST、現 CMU) が作成)。
+対象は TACL、ACL、NAACL、COLING、EMNLP です (Findings は除外)。Student/Demo 論文も含みます。
 収集は手作業なので漏れがあるかもしれません。
 データ・スクリプトは <a href="https://github.com/murawaki/japan-nlp/">GitHub</a> で公開しているのでご自由にお使いください。
 </p>

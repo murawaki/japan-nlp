@@ -1,0 +1,846 @@
+# TACL
+
+LONG
+Out-of-Domain Discourse Dependency Parsing via Bootstrapping: An Empirical Analysis on Its Effectiveness and Limitation
+Noriki Nishida	理研
+Yuji Matsumoto	理研
+https://aclanthology.org/2022.tacl-1.8/
+
+LONG
+End-to-end Argument Mining with Cross-corpora Multi-task Learning
+Gaku Morio	日立
+Hiroaki Ozaki	日立
+Terufumi Morishita	日立
+Kohsuke Yanai	日立
+https://aclanthology.org/2022.tacl-1.37.pdf
+
+LONG
+Compositional Evaluation on Japanese Textual Entailment and Similarity
+Hitomi Yanaka	東大
+Koji Mineshima	慶応大
+https://aclanthology.org/2022.tacl-1.73/
+
+
+# ACL May
+
+LONG
+Sense Embeddings are also Biased – Evaluating Social Biases in Static and Contextualised Sense Embeddings
+Yi Zhou	#リバプール大
+Masahiro Kaneko	東工大
+Danushka Bollegala	#リバプール大	#Amazon
+https://aclanthology.org/2022.acl-long.135/
+
+LONG
+Beyond the Granularity: Multi-Perspective Dialogue Collaborative Selection for Dialogue State Tracking
+Jinyu Guo	#北京郵電大
+Kai Shuang	#北京郵電大
+Jijie Li	#北京郵電大
+Zihan Wang	東大
+Yixuan Liu	#北京郵電大
+https://aclanthology.org/2022.acl-long.165/
+
+LONG
+Are Prompt-based Models Clueless?
+Pride Kavumba	東北大	理研
+Ryo Takahashi	LegalForce
+Yusuke Oda	LegalForce	東北大
+https://aclanthology.org/2022.acl-long.166/
+
+LONG
+Semi-Supervised Formality Style Transfer with Consistency Training
+Ao Liu	東工大
+An Wang	東工大
+Naoaki Okazaki	東工大
+https://aclanthology.org/2022.acl-long.321/
+
+LONG
+What Makes Reading Comprehension Questions Difficult?
+Saku Sugawara	NII
+Nikita Nangia	#ニューヨーク大
+Alex Warstadt	#ニューヨーク大
+Samuel Bowman	#ニューヨーク大
+https://aclanthology.org/2022.acl-long.479/
+
+LONG
+Interpretability for Language Learners Using Example-Based Grammatical Error Correction
+Masahiro Kaneko	東工大
+Sho Takase	東工大
+Ayana Niwa	東工大
+Naoaki Okazaki	東工大
+https://aclanthology.org/2022.acl-long.496/
+
+LONG
+One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia
+Alham Fikri Aji	#Amazon
+Genta Indra Winata	#Bloomberg
+Fajri Koto	#メルボルン大
+Samuel Cahyawijaya	#HKUST
+Ade Romadhony	#Telkom大	#INACL
+Rahmad Mahendra	#インドネシア大	#INACL
+Kemal Kurniawan	#メルボルン大	#INACL
+David Moeljadi	神田外語大
+Radityo Eko Prasojo	#Kata.ai
+Timothy Baldwin	#メルボルン大	#MBZUAI
+Jey Han Lau	#メルボルン大
+Sebastian Ruder	#Google
+https://aclanthology.org/2022.acl-long.500/
+
+LONG
+Pretraining with Artificial Language: Studying Transferable Knowledge in Language Models
+Ryokan Ri	東大
+Yoshimasa Tsuruoka	東大
+https://aclanthology.org/2022.acl-long.504/
+
+LONG
+mLUKE: The Power of Entity Representations in Multilingual Pretrained Language Models
+Ryokan Ri	Studio Ousia	東大
+Ikuya Yamada	Studio Ousia	理研
+Yoshimasa Tsuruoka	東大
+https://aclanthology.org/2022.acl-long.505/
+
+LONG
+Modeling Syntactic-Semantic Dependency Correlations in Semantic Role Labeling Using Mixture Models
+Junjie Chen	東大
+Xiangheng He	#ICL
+Yusuke Miyao	東大
+https://aclanthology.org/2022.acl-long.548/
+
+LONG
+Learning Disentangled Representations of Negation and Uncertainty
+Jake Vasilakes	#マンチェスター大
+Chrysoula Zerva	#Técnico
+Makoto Miwa	豊田工大	産総研
+Sophia Ananiadou	#マンチェスター大	産総研
+https://aclanthology.org/2022.acl-long.574/
+
+LONG
+SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities
+Hsiang-Sheng Tsai	#台湾大
+Heng-Jui Chang	#台湾大
+Wen-Chin Huang	名大
+Zili Huang	#Johns Hopkins
+Kushal Lakhotia	#Meta
+Shu-wen Yang	#台湾大
+Shuyan Dong	#MIT
+Andy Liu	#台湾大
+Cheng-I Lai	#MIT
+Jiatong Shi	#CMU
+Xuankai Chang	#CMU
+Phil Hall	#LXT
+Hsuan-Jui Chen	#台湾大
+Shang-Wen Li	#Meta
+Shinji Watanabe	#CMU
+Abdelrahman Mohamed	#Meta
+Hung-yi Lee	#台湾大
+https://aclanthology.org/2022.acl-long.580/
+
+LONG
+RNSum: A Large-Scale Dataset for Automatic Release Note Generation via Commit Logs Summarization
+Hisashi Kamezawa	東大
+Noriki Nishida	理研
+Nobuyuki Shimizu	Yahoo
+Takashi Miyazaki	Yahoo
+Hideki Nakayama	東大
+https://aclanthology.org/2022.acl-long.597/
+
+SHORT
+Simple and Effective Knowledge-Driven Query Expansion for QA-Based Product Attribute Extraction
+Keiji Shinzato	#Rakuten
+Naoki Yoshinaga	東大
+Yandi Xia	#Rakuten
+Wei-Te Chen	#Rakuten
+https://aclanthology.org/2022.acl-short.25/
+
+SHORT
+Investigating person-specific errors in chat-oriented dialogue systems
+Koh Mitsuda	NTT
+Ryuichiro Higashinaka	NTT
+Tingxuan Li	筑波大
+Sen Yoshida	NTT
+https://aclanthology.org/2022.acl-short.50/
+
+STUDENT
+Building a Dialogue Corpus Annotated with Expressed and Experienced Emotions
+Tatsuya Ide	早大
+Daisuke Kawahara	早大
+https://aclanthology.org/2022.acl-srw.3/
+
+STUDENT
+Logical Inference for Counting on Semi-structured Tables
+Tomoya Kurosawa	東大
+Hitomi Yanaka	東大
+https://aclanthology.org/2022.acl-srw.8/
+
+STUDENT
+Compositional Semantics and Inference System for Temporal Order based on Japanese CCG
+Tomoki Sugimoto	東大
+Hitomi Yanaka	東大
+https://aclanthology.org/2022.acl-srw.10/
+
+STUDENT
+Restricted or Not: A General Training Framework for Neural Machine Translation
+Zuchao Li	#上海交通大
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+Hai Zhao	#上海交通大
+https://aclanthology.org/2022.acl-srw.18/
+
+STUDENT
+Flexible Visual Grounding
+Yongmin Kim	京大
+Chenhui Chu	京大
+Sadao Kurohashi	京大
+https://aclanthology.org/2022.acl-srw.22/
+
+STUDENT
+Scene-Text Aware Image and Text Retrieval with Dual-Encoder
+Shumpei Miyawaki	東北大
+Taku Hasegawa	NTT
+Kyosuke Nishida	NTT
+Takuma Kato	東北大
+Jun Suzuki	東北大
+https://aclanthology.org/2022.acl-srw.34/
+
+
+# NAACL July
+
+SHORT
+PARADISE: Exploiting Parallel Data for Multilingual Sequence-to-Sequence Pretraining
+Machel Reid	東大
+Mikel Artetxe	#Meta
+https://aclanthology.org/2022.naacl-main.58/
+
+SHORT
+Generating Repetitions with Appropriate Repeated Words
+Toshiki Kawamoto	東工大
+Hidetaka Kamigaito	東工大
+Kotaro Funakoshi	東工大
+Manabu Okumura	東工大
+https://aclanthology.org/2022.naacl-main.62/
+
+LONG
+Go Back in Time: Generating Flashbacks in Stories with Event Temporal Prompts
+Rujun Han	#南カリフォルニア大
+Hong Chen	東大
+Yufei Tian	#UCLA
+Nanyun Peng	#UCLA
+https://aclanthology.org/2022.naacl-main.104/
+
+SHORT
+Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem
+Ryoma Sato	京大	理研
+https://aclanthology.org/2022.naacl-main.157/
+
+LONG
+Gender Bias in Masked Language Models for Multiple Languages
+Masahiro Kaneko	東工大
+Aizhan Imankulova	CogSmart
+Danushka Bollegala	#リバプール大	#Amazon
+Naoaki Okazaki	東工大
+https://aclanthology.org/2022.naacl-main.197/
+
+LONG
+A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation
+David Adelani	#ザールラント大
+Jesujoba Alabi	#Inria
+Angela Fan	#Meta
+Julia Kreutzer	#Google
+Xiaoyu Shen	#Amazon
+Machel Reid	東大
+Dana Ruiter	#ザールラント大
+Dietrich Klakow	#ザールラント大
+Peter Nabende	#マケレレ大
+Ernie Chang	#ザールラント大
+Tajuddeen Gwadabe	#中国科学院大
+Freshia Sackey	#JKUAT
+Bonaventure F. P. Dossou	#JUB
+Chris Emezue	#TUM
+Colin Leong	#デイトン大
+Michael Beukman	#ウィットウォーターズランド大
+Shamsuddeen Muhammad	#LIAAD-INESC TEC
+Guyo Jarso	
+Oreen Yousuf	#ウプサラ大
+Andre Niyongabo Rubungo	#UPC
+Gilles Hacheme	#Ai4Innov
+Eric Peter Wairagala	#マケレレ大
+Muhammad Umair Nasir	#Ominor AI
+Benjamin Ajibade	
+Tunde Ajayi	
+Yvonne Gitau	
+Jade Abbott	
+Mohamed Ahmed	#Microsoft
+Millicent Ochieng	#Microsoft
+Anuoluwapo Aremu	
+Perez Ogayo	#CMU
+Jonathan Mukiibi	#マケレレ大
+Fatoumata Ouoba Kabore	
+Godson Kalipe	
+Derguene Mbaye	#Baamtu
+Allahsera Auguste Tapo	#RIT
+Victoire Memdjokam Koagne	
+Edwin Munkoh-Buabeng	
+Valencia Wagner	#SPU
+Idris Abdulmumin	#ABU
+Ayodele Awokoya	#UI Ibadan
+Happy Buzaaba	
+Blessing Sibanda	#NUST
+Andiswa Bukula	#SADiLaR
+Sam Manthalu	#マラウィ大
+https://aclanthology.org/2022.naacl-main.223/
+
+SHORT
+Global Entity Disambiguation with BERT
+Ikuya Yamada	Studio Ousia	理研
+Koki Washio	#Megagon Labs
+Hiroyuki Shindo	NAIST	理研
+Yuji Matsumoto	理研
+https://aclanthology.org/2022.naacl-main.238/
+
+LONG
+EASE: Entity-Aware Contrastive Learning of Sentence Embedding
+Sosuke Nishikawa	Studio Ousia	東大
+Ryokan Ri	Studio Ousia	東大
+Ikuya Yamada	Studio Ousia	理研
+Yoshimasa Tsuruoka	東大
+Isao Echizen	東大	NII
+https://aclanthology.org/2022.naacl-main.284/
+
+LONG
+Joint Learning-based Heterogeneous Graph Attention Network for Timeline Summarization
+Jingyi You	東工大
+Dongyuan Li	東工大
+Hidetaka Kamigaito	東工大
+Kotaro Funakoshi	東工大
+Manabu Okumura	東工大
+https://aclanthology.org/2022.naacl-main.301/
+
+SHORT
+Grapheme-to-Phoneme Conversion for Thai using Neural Regression Models
+Tomohiro Yamasaki	東芝
+https://aclanthology.org/2022.naacl-main.315/
+
+LONG
+What Factors Should Paper-Reviewer Assignments Rely On? Community Perspectives on Issues and Ideals in Conference Peer-Review
+Terne Thorn Jakobsen	#コペンハーゲン大
+Anna Rogers	#コペンハーゲン大	理研
+https://aclanthology.org/2022.naacl-main.354/
+
+STUDENT
+Grounding in social media: An approach to building a chit-chat dialogue model
+Ritvik Choudhary	早大
+Daisuke Kawahara	早大
+https://aclanthology.org/2022.naacl-srw.2/
+
+STUDENT
+ExtraPhrase: Efficient Data Augmentation for Abstractive Summarization
+Mengsay Loem	東工大
+Sho Takase	東工大
+Masahiro Kaneko	東工大
+Naoaki Okazaki	東工大
+https://aclanthology.org/2022.naacl-srw.3/
+
+STUDENT
+Generate, Evaluate, and Select: A Dialogue System with a Response Evaluator for Diversity-Aware Response Generation
+Ryoma Sakaeda	早大
+Daisuke Kawahara	早大
+https://aclanthology.org/2022.naacl-srw.10/
+
+STUDENT
+Building a Personalized Dialogue System with Prompt-Tuning
+Tomohito Kasahara	早大
+Daisuke Kawahara	早大
+Nguyen Tung	LINE
+Shengzhe Li	LINE
+Kenta Shinzato	LINE
+Toshinori Sato	LINE
+https://aclanthology.org/2022.naacl-srw.13/
+
+STUDENT
+Zuo Zhuan Ancient Chinese Dataset for Word Sense Disambiguation
+Xiaomeng Pan	都立大
+Hongfei Wang	都立大
+Teruaki Oka	都立大
+Mamoru Komachi	都立大
+https://aclanthology.org/2022.naacl-srw.17/
+
+STUDENT
+How do people talk about images? A study on open-domain conversations with images.
+Yi-Pei Chen	東大
+Nobuyuki Shimizu	Yahoo
+Takashi Miyazaki	Yahoo
+Hideki Nakayama	東大
+https://aclanthology.org/2022.naacl-srw.20/
+
+STUDENT
+Neural Networks in a Product of Hyperbolic Spaces
+Jun Takeuchi	東大
+Noriki Nishida	理研
+Hideki Nakayama	東大
+https://aclanthology.org/2022.naacl-srw.27/
+
+STUDENT
+Explicit Use of Topicality in Dialogue Response Generation
+Takumi Yoshikoshi	京大
+Hayato Atarashi	京大
+Takashi Kodama	京大
+Sadao Kurohashi	京大
+https://aclanthology.org/2022.naacl-srw.28/
+
+STUDENT
+Static and Dynamic Speaker Modeling based on Graph Neural Network for Emotion Recognition in Conversation
+Prakhar Saxena	京大
+Yin Jou Huang	京大
+Sadao Kurohashi	京大
+https://aclanthology.org/2022.naacl-srw.31/
+
+
+# COLING October
+
+LONG
+Revisiting Statistical Laws of Semantic Shift in Romance Cognates
+Yoshifumi Kawasaki	東大
+Maëlys Salingre	目白大
+Marzena Karpinska	#UMASS
+Hiroya Takamura	産総研
+Ryo Nagata	甲南大
+https://aclanthology.org/2022.coling-1.13/
+
+LONG
+Adaptive Natural Language Generation for Task-oriented Dialogue via Reinforcement Learning
+Atsumoto Ohashi	名大
+Ryuichiro Higashinaka	名大
+https://aclanthology.org/2022.coling-1.19/
+
+LONG
+A Personalized Dialogue Generator with Implicit User Persona Detection
+Itsugun Cho	慶応大
+Dongyang Wang	慶応大
+Ryota Takahashi	慶応大
+Hiroaki Saito	慶応大
+https://aclanthology.org/2022.coling-1.29/
+
+SHORT
+Target-Guided Open-Domain Conversation Planning
+Yosuke Kishinami	東北大
+Reina Akama	東北大	理研
+Shiki Sato	東北大
+Ryoko Tokuhisa	東北大
+Jun Suzuki	東北大	理研
+Kentaro Inui	東北大	理研
+https://aclanthology.org/2022.coling-1.55/
+
+LONG
+Improving Commonsense Contingent Reasoning by Pseudo-data and Its Application to the Related Tasks
+Kazumasa Omura	京大
+Sadao Kurohashi	京大
+https://aclanthology.org/2022.coling-1.68/
+
+LONG
+Topicalization in Language Models: A Case Study on Japanese
+Riki Fujihara	東北大
+Tatsuki Kuribayashi	東北大	Langsmith
+Kaori Abe	東北大
+Ryoko Tokuhisa	東北大
+Kentaro Inui	東北大	理研
+https://aclanthology.org/2022.coling-1.71/
+
+LONG
+Debiasing Isn’t Enough! – on the Effectiveness of Debiasing MLMs and Their Social Biases in Downstream Tasks
+Masahiro Kaneko	東工大
+Danushka Bollegala	#リバプール大	#Amazon
+Naoaki Okazaki	東工大
+https://aclanthology.org/2022.coling-1.111/
+
+LONG
+Weakly Supervised Formula Learner for Solving Mathematical Problems
+Yuxuan Wu	東大
+Hideki Nakayama	東大
+https://aclanthology.org/2022.coling-1.150/
+
+LONG
+Analytic Automated Essay Scoring Based on Deep Neural Networks Integrating Multidimensional Item Response Theory
+Takumi Shibata	電通大
+Masaki Uto	電通大
+https://aclanthology.org/2022.coling-1.257/
+
+SHORT
+LayerConnect: Hypernetwork-Assisted Inter-Layer Connector to Enhance Parameter Efficiency
+Haoxiang Shi	早大
+Rongsheng Zhang	#NetEase
+Jiaan Wang	#蘇州大
+Cen Wang	KDDI
+Yinhe Zheng	#Lingxin AI
+Tetsuya Sakai	早大
+https://aclanthology.org/2022.coling-1.276/
+
+LONG
+Enhancing Contextual Word Representations Using Embedding of Neighboring Entities in Knowledge Graphs
+Ryoko Tokuhisa	豊田中央研究所
+Keisuke Kawano	豊田中央研究所
+Akihiro Nakamura	豊田中央研究所
+Satoshi Koide	豊田中央研究所
+https://aclanthology.org/2022.coling-1.281/
+
+SHORT
+Visual Recipe Flow: A Dataset for Learning Visual State Changes of Objects with Recipe Flows
+Keisuke Shirai	京大
+Atsushi Hashimoto	OMRON SINIC X
+Taichi Nishimura	京大
+Hirotaka Kameko	京大
+Shuhei Kurita	理研	JST
+Yoshitaka Ushiku	OMRON SINIC X
+Shinsuke Mori	京大
+https://aclanthology.org/2022.coling-1.315/
+
+LONG
+IMPARA: Impact-Based Metric for GEC Using Parallel Data
+Koki Maeda	東工大
+Masahiro Kaneko	東工大
+Naoaki Okazaki	東工大
+https://aclanthology.org/2022.coling-1.316/
+
+LONG
+Possible Stories: Evaluating Situated Commonsense Reasoning under Multiple Possible Scenarios
+Mana Ashida	Yahoo
+Saku Sugawara	NII
+https://aclanthology.org/2022.coling-1.319/
+
+LONG
+Resource of Wikipedias in 31 Languages Categorized into Fine-Grained Named Entities
+Satoshi Sekine	理研
+Kouta Nakayama	理研
+Masako Nomoto	理研
+Maya Ando	
+Asuka Sumida	理研
+Koji Matsuda	理研
+https://aclanthology.org/2022.coling-1.331/
+
+LONG
+Unsupervised Lexical Substitution with Decontextualised Embeddings
+Takashi Wada	#メルボルン大	理研
+Timothy Baldwin	#メルボルン大	#MBZUAI
+Yuji Matsumoto	理研
+Jey Han Lau	#メルボルン大
+https://aclanthology.org/2022.coling-1.366/
+
+SHORT
+Mitigating the Diminishing Effect of Elastic Weight Consolidation
+Canasai Kruengkrai	NII
+Junichi Yamagishi	NII
+https://aclanthology.org/2022.coling-1.403/
+
+SHORT
+MaxMatch-Dropout: Subword Regularization for WordPiece
+Tatsuya Hiraoka	東工大
+https://aclanthology.org/2022.coling-1.430/
+
+SHORT
+FeatureBART: Feature Based Sequence-to-Sequence Pre-Training for Low-Resource NMT
+Abhisek Chakrabarty	NICT
+Raj Dabre	NICT
+Chenchen Ding	NICT
+Hideki Tanaka	NICT
+Masao Utiyama	NICT
+Eiichiro Sumita	NICT
+https://aclanthology.org/2022.coling-1.443/
+
+SHORT
+Adversarial Training on Disentangling Meaning and Language Representations for Unsupervised Quality Estimation
+Yuto Kuroda	愛媛大
+Tomoyuki Kajiwara	愛媛大
+Yuki Arase	阪大
+Takashi Ninomiya	愛媛大
+https://aclanthology.org/2022.coling-1.465/
+
+LONG
+Adapting to Non-Centered Languages for Zero-shot Multilingual Translation
+Zhi Qu	NAIST
+Taro Watanabe	NAIST
+https://aclanthology.org/2022.coling-1.467/
+
+LONG
+Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling
+Shuhei Kurita	理研	JST
+Hiroki Ouchi	NAIST	理研
+Kentaro Inui	東北大	理研
+Satoshi Sekine	理研
+https://aclanthology.org/2022.coling-1.478/
+
+LONG
+A-TIP: Attribute-aware Text Infilling via Pre-trained Language Model
+Dongyuan Li	東工大
+Jingyi You	東工大
+Kotaro Funakoshi	東工大
+Manabu Okumura	東工大
+https://aclanthology.org/2022.coling-1.511/
+
+SHORT
+Multi Graph Neural Network for Extractive Long Document Summarization
+Xuan-Dung Doan	#Viettel Group
+Le-Minh Nguyen	産総研
+Khac-Hoai Nam Bui	#Viettel Group
+https://aclanthology.org/2022.coling-1.512/
+
+LONG
+Coordination Generation via Synchronized Text-Infilling
+Hiroki Teranishi	理研
+Yuji Matsumoto	理研
+https://aclanthology.org/2022.coling-1.517/
+
+LONG
+JPG - Jointly Learn to Align: Automated Disease Prediction and Radiology Report Generation
+Jingyi You	東工大
+Dongyuan Li	東工大
+Manabu Okumura	東工大
+Kenji Suzuki	東工大
+https://aclanthology.org/2022.coling-1.523/
+
+LONG
+Multi-Perspective Document Revision
+Mana Ihori	NTT
+Hiroshi Sato	NTT
+Tomohiro Tanaka	NTT
+Ryo Masumura	NTT
+https://aclanthology.org/2022.coling-1.535/
+
+LONG
+Phrase-Level Localization of Inconsistency Errors in Summarization by Weak Supervision
+Masato Takatsuka	早大
+Tetsunori Kobayashi	早大
+Yoshihiko Hayashi	早大
+https://aclanthology.org/2022.coling-1.537/
+
+LONG
+Exploiting Unlabeled Data for Target-Oriented Opinion Words Extraction
+Yidong Wang	東工大
+Hao Wu	東工大
+Ao Liu	東工大
+Wenxin Hou	#南京大
+Zhen Wu	#MSRA
+Jindong Wang	#西湖大
+Takahiro Shinozaki	東工大
+Manabu Okumura	東工大
+Yue Zhang	#西湖大
+https://aclanthology.org/2022.coling-1.617/
+
+
+# EMNLP December
+
+LONG
+M2D2: A Massively Multi-Domain Language Modeling Dataset
+Machel Reid	東大
+Victor Zhong	#ワシントン大
+Suchin Gururangan	#ワシントン大
+Luke Zettlemoyer	#ワシントン大
+https://aclanthology.org/2022.emnlp-main.63/
+
+LONG
+Infinite SCAN: An Infinite Model of Diachronic Semantic Change
+Seiichi Inoue	都立大
+Mamoru Komachi	都立大
+Toshinobu Ogiso	国語研
+Hiroya Takamura	産総研
+Daichi Mochihashi	統数研
+https://aclanthology.org/2022.emnlp-main.104/
+
+SHORT
+Rescue Implicit and Long-tail Cases: Nearest Neighbor Relation Extraction
+Zhen Wan	京大
+Qianying Liu	京大
+Zhuoyuan Mao	京大
+Fei Cheng	京大
+Sadao Kurohashi	京大
+Jiwei Li	#浙江大
+https://aclanthology.org/2022.emnlp-main.113/
+
+LONG
+StoryER: Automatic Story Evaluation via Ranking, Rating and Reasoning
+Hong Chen	東大	産総研
+Duc Vo	東大
+Hiroya Takamura	東工大	産総研
+Yusuke Miyao	東大	産総研
+Hideki Nakayama	東大	産総研
+https://aclanthology.org/2022.emnlp-main.114/
+
+LONG
+MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition
+David Adelani	#ザールラント大	#UCL
+Graham Neubig	#CMU
+Sebastian Ruder	#Google
+Shruti Rijhwani	#CMU
+Michael Beukman	#ウィットウォーターズランド大
+Chester Palen-Michel	#ブランダイス大
+Constantine Lignos	#ブランダイス大
+Jesujoba Alabi	#ザールラント大
+Shamsuddeen Muhammad	#LIAAD-INESC TEC
+Peter Nabende	#マケレレ大
+Cheikh M. Bamba Dione	#ベルゲン大
+Andiswa Bukula	#SADiLaR
+Rooweither Mabuya	#SADiLaR
+Bonaventure F. P. Dossou	#Mila Quebec AI Institute
+Blessing Sibanda	
+Happy Buzaaba	理研
+Jonathan Mukiibi	#ブランダイス大
+Godson Kalipe	
+Derguene Mbaye	#Baamtu
+Amelia Taylor	#Malawi University of Business and Applied Sciences
+Fatoumata Kabore	#ウプサラ大
+Chris Chinenye Emezue	#TU Munich
+Anuoluwapo Aremu	
+Perez Ogayo	#CMU
+Catherine Gitau	
+Edwin Munkoh-Buabeng	#TU Clausthal
+Victoire Memdjokam Koagne	
+Allahsera Auguste Tapo	#ロチェスター工科大
+Tebogo Macucwa	#プレトリア大
+Vukosi Marivate	#プレトリア大
+Mboning Tchiaze Elvis	
+Tajuddeen Gwadabe	
+Tosin Adewumi	#ルレオ工科大
+Orevaoghene Ahia	#ワシントン大
+Joyce Nakatumba-Nabende	#マケレレ大
+Neo Lerato Mokono	#プレトリア大
+Ignatius Ezeani	#ランカスター大
+Chiamaka Chukwuneke	#ランカスター大
+Mofetoluwa Oluwaseun Adeyemi	#ウォータールー大
+Gilles Quentin Hacheme	#Ai4innov
+Idris Abdulmumin	#アフマド・ベロ大
+Odunayo Ogundepo	#ウォータールー大
+Oreen Yousuf	#ウプサラ大
+Tatiana Moteu	
+Dietrich Klakow	#ザールラント大
+https://aclanthology.org/2022.emnlp-main.298/
+
+LONG
+Twist Decoding: Diverse Generators Guide Each Other
+Jungo Kasai	#ワシントン大 #Allen Institute for AI
+Keisuke Sakaguchi	東北大
+Ronan Le Bras	#Allen Institute for AI
+Hao Peng	#Allen Institute for AI
+Ximing Lu	#ワシントン大 #Allen Institute for AI
+Dragomir Radev	#イェール大
+Yejin Choi	#ワシントン大 #Allen Institute for AI
+Noah A. Smith	#ワシントン大 #Allen Institute for AI
+https://aclanthology.org/2022.emnlp-main.326/
+
+LONG
+IndicNLG Benchmark: Multilingual Datasets for Diverse NLG Tasks in Indic Languages
+Aman Kumar	#IIT Madras
+Himani Shrotriya	#IIT Madras
+Prachi Sahu	#IIT Madras
+Amogh Mishra	#コロンビア大
+Raj Dabre	NICT
+Ratish Puduppully	#エジンバラ大
+Anoop Kunchukuttan	#Microsoft	#AI4Bharat
+Mitesh M. Khapra	#IIT Madras	#AI4Bharat
+Pratyush Kumar	#Microsoft	#AI4Bharat
+https://aclanthology.org/2022.emnlp-main.360/
+
+LONG
+PLOG: Table-to-Logic Pretraining for Logical Table-to-Text Generation
+Ao Liu	東工大
+Haoyu Dong	#Microsoft
+Naoaki Okazaki	東工大
+Shi Han	#Microsoft
+Dongmei Zhang	#Microsoft
+https://aclanthology.org/2022.emnlp-main.373/
+
+LONG
+CEFR-Based Sentence Difficulty Annotation and Assessment
+Yuki Arase	阪大
+Satoru Uchida	九大
+Tomoyuki Kajiwara	愛媛大
+https://aclanthology.org/2022.emnlp-main.416/
+
+LONG
+Cross-stitching Text and Knowledge Graph Encoders for Distantly Supervised Relation Extraction
+Qin Dai	東北大
+Benjamin Heinzerling	東北大	理研
+Kentaro Inui	東北大	理研
+https://aclanthology.org/2022.emnlp-main.467/
+
+LONG
+Zero-Shot Learners for Natural Language Understanding via a Unified Multiple Choice Perspective
+Ping Yang	#IDEA
+Junjie Wang	早大
+Ruyi Gan	#IDEA
+Xinyu Zhu	#清華大
+Lin Zhang	#IDEA
+Ziwei Wu	#IDEA
+Xinyu Gao	#IDEA
+Jiaxing Zhang	#IDEA
+Tetsuya Sakai	早大
+https://aclanthology.org/2022.emnlp-main.474/
+
+LONG
+Factual Accuracy is not Enough: Planning Consistent Description Order for Radiology Report Generation
+Toru Nishino	富士フィルム
+Yasuhide Miura	富士フィルム
+Tomoki Taniguchi	富士フィルム
+Tomoko Ohkuma	富士フィルム
+Yuki Suzuki	阪大
+Shoji Kido	阪大
+Noriyuki Tomiyama	阪大
+https://aclanthology.org/2022.emnlp-main.480/
+
+LONG
+Open-domain Video Commentary Generation
+Edison Marrese-Taylor	産総研
+Yumi Hamazono	産総研	お茶大
+Tatsuya Ishigaki	産総研
+Goran Topić	産総研
+Yusuke Miyao	産総研	東大
+Ichiro Kobayashi	産総研	お茶大
+Hiroya Takamura	産総研
+https://aclanthology.org/2022.emnlp-main.495/
+
+SHORT
+Cross-Modal Similarity-Based Curriculum Learning for Image Captioning
+Hongkuan Zhang	名大
+Saku Sugawara	NII
+Akiko Aizaaw	NII
+Lei Zhou	名大
+Ryohei Sasano	名大
+Koichi Takeda	名大
+https://aclanthology.org/2022.emnlp-main.516/
+
+SHORT
+Debiasing Masks: A New Framework for Shortcut Mitigation in NLU
+Johannes Mario Meissner	東大
+Saku Sugawara	NII
+Akiko Aizawa	東大	NII
+https://aclanthology.org/2022.emnlp-main.517/
+
+LONG
+Character-centric Story Visualization via Visual Planning and Token Alignment
+Hong Chen	東大
+Rujun Han	#Amazon
+Te-Lin Wu	#UCLA
+Hideki Nakayama	東大
+Nanyun Peng	#UCLA
+https://aclanthology.org/2022.emnlp-main.565/
+
+LONG
+Multimodal Robustness for Neural Machine Translation
+Yuting Zhao	都立大
+Ioan Calapodescu	#Naver
+https://aclanthology.org/2022.emnlp-main.582/
+
+LONG
+Context Limitations Make Neural Language Models More Human-Like
+Tatsuki Kuribayashi	東北大	Langsmith
+Yohei Oseki	東大	理研
+Ana Brassard	東北大	理研
+Kentaro Inui	東北大	理研
+https://aclanthology.org/2022.emnlp-main.712/
+
+LONG
+PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings
+Qiyu Wu	東大
+Chongyang Tao	#Microsoft
+Tao Shen	#Microsoft
+Can Xu	#Microsoft
+Xiubo Geng	#Microsoft
+Daxin Jiang	#Microsoft
+https://aclanthology.org/2022.emnlp-main.826/
+
